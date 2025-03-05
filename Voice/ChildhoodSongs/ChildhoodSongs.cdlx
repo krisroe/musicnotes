@@ -1,0 +1,279 @@
+
+<cdlx version="1">
+
+  <cdlayout appVersion="24.0.3.3">
+    <disc>
+      <cdText/>
+      <tracks>
+        <cdTrack fileID="0" index="1" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1302420">
+          <cdText>
+            <title>1-SonyasDumb</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="1" index="2" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="637980">
+          <cdText>
+            <title>2-TheNationalSIDFoundation</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="2" index="3" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1190700">
+          <cdText>
+            <title>3-ThereAreFatPeopleInTheWorld</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="3" index="4" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="760284">
+          <cdText>
+            <title>4-LaGorda</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="4" index="5" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="863184">
+          <cdText>
+            <title>5-LetUsPlayWithOurGunsTogetherMixdown</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="5" index="6" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1134252">
+          <cdText>
+            <title>6-WhatLoveMixdown</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="6" index="7" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1128372">
+          <cdText>
+            <title>7-PuffyDevilWorshipperThingMixdown</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="7" index="8" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1164240">
+          <cdText>
+            <title>8-BozoGoesToJail</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="8" index="9" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="2687748">
+          <cdText>
+            <title>9-TheseAreOurPets</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="9" index="10" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="606816">
+          <cdText>
+            <title>10-IfYouAreFatThenYouAreNotElsie</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="10" index="11" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="896112">
+          <cdText>
+            <title>11-FatterThanElsie</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="11" index="12" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="532140">
+          <cdText>
+            <title>12-E-E-E-Elsie</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="12" index="13" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1161300">
+          <cdText>
+            <title>13-TheFatnessOfElsieCannotBeDenied</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="13" index="14" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="959616">
+          <cdText>
+            <title>14-HeIsTed</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="14" index="15" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="3935484">
+          <cdText>
+            <title>15-JasonSchlakeIsTheMan</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="15" index="16" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="697368">
+          <cdText>
+            <title>16-IHeardJasonSchlakeGotArrested</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="16" index="17" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1278900">
+          <cdText>
+            <title>17-WhoIsJasonSchlake</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="17" index="18" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1240092">
+          <cdText>
+            <title>18-IWishIWasHalfAsCoolAsJasonSchlake</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="18" index="19" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="2205000">
+          <cdText>
+            <title>19-TheJasonSchlakeShow</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="19" index="20" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="873768">
+          <cdText>
+            <title>20-WeAllLoveJ</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="20" index="21" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="680316">
+          <cdText>
+            <title>21-JasonSchlakeHesAMasterAndHesABastard</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="21" index="22" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="847896">
+          <cdText>
+            <title>22-JasonSchlakeStandingTall</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="22" index="23" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="5533668">
+          <cdText>
+            <title>23-AllInFavorOfKillingJasonSchlakeSayAye</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="23" index="24" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="2076816">
+          <cdText>
+            <title>24-IAmANinja</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="24" index="25" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="4272996">
+          <cdText>
+            <title>25-WhatIsTheCenterOfMassOfTheGasInYourAss</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="25" index="26" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="376320">
+          <cdText>
+            <title>26-IfIWasAnOmnipotentBeing</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="26" index="27" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="587412">
+          <cdText>
+            <title>27-InstitutionalNucleus</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="27" index="28" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="270480">
+          <cdText>
+            <title>28-LidleLidleLidleLidle</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="28" index="29" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1298892">
+          <cdText>
+            <title>29-IUPUI</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="29" index="30" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="3989580">
+          <cdText>
+            <title>30-DumbDog</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="30" index="31" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="629160">
+          <cdText>
+            <title>31-DestroyingAllPugsIsGood</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="31" index="32" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="709128">
+          <cdText>
+            <title>32-WeAllLovePuppy</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="32" index="33" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="705600">
+          <cdText>
+            <title>33-MakeTheDogDoWhatTheDogDoesntWantToDo</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="33" index="34" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1475292">
+          <cdText>
+            <title>34-ILikeToiletMonster</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="34" index="35" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="955500">
+          <cdText>
+            <title>35-IWillSlayTheToiletMonster</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="35" index="36" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1414728">
+          <cdText>
+            <title>36-LunaticFringe</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="36" index="37" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="630336">
+          <cdText>
+            <title>37-BotulismIsMyFriend</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="37" index="38" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1131312">
+          <cdText>
+            <title>38-ILikeGluten</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="38" index="39" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1253616">
+          <cdText>
+            <title>39-IAmThePope</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="39" index="40" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="2063880">
+          <cdText>
+            <title>40-ILoveSaddamHussein</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="40" index="41" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1364160">
+          <cdText>
+            <title>41-IAmTheTurtleOfDoom</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="41" index="42" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1263612">
+          <cdText>
+            <title>42-IAmTheZuzzZuzzBee</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="42" index="43" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="1686384">
+          <cdText>
+            <title>43-StoccoElegy</title>
+          </cdText>
+        </cdTrack>
+        <cdTrack fileID="43" index="44" pause="88200" selection="EntireFile" sourceInPoint="0" sourceOutPoint="591528">
+          <cdText>
+            <title>44-AdamWantsMeToSingALittleSong</title>
+          </cdText>
+        </cdTrack>
+      </tracks>
+    </disc>
+  </cdlayout>
+
+  <files>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\5-LetUsPlayWithOurGunsTogetherMixdown.wav" id="4" mediaHandler="AmioWav" relativePath="5-LetUsPlayWithOurGunsTogether/5-LetUsPlayWithOurGunsTogetherMixdown.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\12-E-E-E-Elsie.wav" id="11" mediaHandler="AmioWav" relativePath="12-E-E-E-Elsie.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\3-ThereAreFatPeopleInTheWorld.wav" id="2" mediaHandler="AmioWav" relativePath="3-ThereAreFatPeopleInTheWorld.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\1-SonyasDumb.wav" id="0" mediaHandler="AmioWav" relativePath="1-SonyasDumb.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\6-WhatLoveMixdown.wav" id="5" mediaHandler="AmioWav" relativePath="6-WhatLove/6-WhatLoveMixdown.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\26-IfIWasAnOmnipotentBeing.wav" id="25" mediaHandler="AmioWav" relativePath="26-IfIWasAnOmnipotentBeing.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\22-JasonSchlakeStandingTall.wav" id="21" mediaHandler="AmioWav" relativePath="22-JasonSchlakeStandingTall.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\19-TheJasonSchlakeShow.wav" id="18" mediaHandler="AmioWav" relativePath="19-TheJasonSchlakeShow.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\20-WeAllLoveJ.wav" id="19" mediaHandler="AmioWav" relativePath="20-WeAllLoveJ.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\18-IWishIWasHalfAsCoolAsJasonSchlake.wav" id="17" mediaHandler="AmioWav" relativePath="18-IWishIWasHalfAsCoolAsJasonSchlake.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\21-JasonSchlakeHesAMasterAndHesABastard.wav" id="20" mediaHandler="AmioWav" relativePath="21-JasonSchlakeHesAMasterAndHesABastard.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\25-WhatIsTheCenterOfMassOfTheGasInYourAss.wav" id="24" mediaHandler="AmioWav" relativePath="25-WhatIsTheCenterOfMassOfTheGasInYourAss.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\23-AllInFavorOfKillingJasonSchlakeSayAye.wav" id="22" mediaHandler="AmioWav" relativePath="23-AllInFavorOfKillingJasonSchlakeSayAye.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\24-IAmANinja.wav" id="23" mediaHandler="AmioWav" relativePath="24-IAmANinja.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\27-InstitutionalNucleus.wav" id="26" mediaHandler="AmioWav" relativePath="27-InstitutionalNucleus.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\8-BozoGoesToJail.wav" id="7" mediaHandler="AmioWav" relativePath="8-BozoGoesToJail.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\2-TheNationalSIDFoundation.wav" id="1" mediaHandler="AmioWav" relativePath="2-TheNationalSIDFoundation.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\17-WhoIsJasonSchlake.wav" id="16" mediaHandler="AmioWav" relativePath="17-WhoIsJasonSchlake.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\4-LaGorda.wav" id="3" mediaHandler="AmioWav" relativePath="4-LaGorda.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\7-PuffyDevilWorshipperThingMixdown.wav" id="6" mediaHandler="AmioWav" relativePath="7-PuffyDevilWorshipperThing/7-PuffyDevilWorshipperThingMixdown.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\14-HeIsTed.wav" id="13" mediaHandler="AmioWav" relativePath="14-HeIsTed.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\10-IfYouAreFatThenYouAreNotElsie.wav" id="9" mediaHandler="AmioWav" relativePath="10-IfYouAreFatThenYouAreNotElsie.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\13-TheFatnessOfElsieCannotBeDenied.wav" id="12" mediaHandler="AmioWav" relativePath="13-TheFatnessOfElsieCannotBeDenied.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\9-TheseAreOurPets.wav" id="8" mediaHandler="AmioWav" relativePath="9-TheseAreOurPets.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\11-FatterThanElsie.wav" id="10" mediaHandler="AmioWav" relativePath="11-FatterThanElsie.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\15-JasonSchlakeIsTheMan.wav" id="14" mediaHandler="AmioWav" relativePath="15-JasonSchlakeIsTheMan.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\36-LunaticFringe.wav" id="35" mediaHandler="AmioWav" relativePath="36-LunaticFringe.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\28-LidleLidleLidleLidle.wav" id="27" mediaHandler="AmioWav" relativePath="28-LidleLidleLidleLidle.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\31-DestroyingAllPugsIsGood.wav" id="30" mediaHandler="AmioWav" relativePath="31-DestroyingAllPugsIsGood.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\37-BotulismIsMyFriend.wav" id="36" mediaHandler="AmioWav" relativePath="37-BotulismIsMyFriend.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\34-ILikeToiletMonster.wav" id="33" mediaHandler="AmioWav" relativePath="34-ILikeToiletMonster.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\41-IAmTheTurtleOfDoom.wav" id="40" mediaHandler="AmioWav" relativePath="41-IAmTheTurtleOfDoom.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\44-AdamWantsMeToSingALittleSong.wav" id="43" mediaHandler="AmioWav" relativePath="44-AdamWantsMeToSingALittleSong.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\30-DumbDog.wav" id="29" mediaHandler="AmioWav" relativePath="30-DumbDog.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\29-IUPUI.wav" id="28" mediaHandler="AmioWav" relativePath="29-IUPUI.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\32-WeAllLovePuppy.wav" id="31" mediaHandler="AmioWav" relativePath="32-WeAllLovePuppy.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\33-MakeTheDogDoWhatTheDogDoesntWantToDo.wav" id="32" mediaHandler="AmioWav" relativePath="33-MakeTheDogDoWhatTheDogDoesntWantToDo.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\35-IWillSlayTheToiletMonster.wav" id="34" mediaHandler="AmioWav" relativePath="35-IWillSlayTheToiletMonster.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\40-ILoveSaddamHussein.wav" id="39" mediaHandler="AmioWav" relativePath="40-ILoveSaddamHussein.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\38-ILikeGluten.wav" id="37" mediaHandler="AmioWav" relativePath="38-ILikeGluten.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\42-IAmTheZuzzZuzzBee.wav" id="41" mediaHandler="AmioWav" relativePath="42-IAmTheZuzzZuzzBee.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\39-IAmThePope.wav" id="38" mediaHandler="AmioWav" relativePath="39-IAmThePope.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\43-StoccoElegy.wav" id="42" mediaHandler="AmioWav" relativePath="43-StoccoElegy.wav"/>
+    <file absolutePath="C:\music2\Voice\ChildhoodSongs\16-IHeardJasonSchlakeGotArrested.wav" id="15" mediaHandler="AmioWav" relativePath="16-IHeardJasonSchlakeGotArrested.wav"/>
+  </files>
+
+</cdlx>
