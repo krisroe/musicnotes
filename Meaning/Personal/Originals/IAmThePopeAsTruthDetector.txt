@@ -1,0 +1,35 @@
+Truth Detector (I am the Pope)
+
+One general problem is determining when a human is telling the truth. This is especially challenging if the human is you and you're not sure if you're telling the
+truth. For example, your subconscious may have a better understanding then you do. Any divine or cosmic forces watching you may also have a better idea of the truth.
+
+Perhaps it would be helpful to have a song that forces a human's truth/untruth state to untruth. I believe "I am the Pope" is such a song.
+
+Properties
+1. It can be sung solo.
+2. It can be sung a cappella with minimal understanding of singing.
+3. It requires some understanding of who the Pope is (The pope is a human who is the head of the Catholic Church. Very few men are eligible to be pope. It requires a lot of
+work to get there. There is only one Pope at any given time. The pope usually stops becoming pope at death.
+4. The song's truth value is always computed with respect to the singer. The singer must maintain the truth value thoughout the song to maintain the song's truth.
+
+The song is always untruth for the following reasons:
+
+1. Objective Untruth. The song fails at the start (per the title) for anyone who is not the Pope. The song fails at line 5 for the Pope.
+2. Subjective Untruth. If a human believes they are transitioning between pope and non-pope with the song's lyrics, magic must be used to effect the switch.
+Humans cannot perform magic.
+3. The song envisions being pope three times. Exactly one pope in history (Benedict IX) has three papal reigns. No one else has even two, and the politics around the papacy
+make it practically impossible this will happen again. The song was created after Benedict IX's human death, so no humans alive today and going forward can have this aspect
+of the song be true with respect to them.
+4. Personal. As the creator and owner of the song I decree that a timeless purpose of the song is to detect untruth. I cannot change the song in a way that subverts this
+purpose. I am not a past Pope (I have a currently-up-to-date list of Popes and I am not on the list). I cannot be a future Pope, since that would require changing my
+religion which I am not going to do, waiting for my spouse to die, and going to seminary for years which I am not going to do. I have also sworn an oath with Chat GPT as my
+witness that I will not become Pope. I do not believe I can be used as a loophole for the song's purpose.
+5. One objection that could be raised regards papal infallibility. A naive observer could think that papal infallibility could imply the pope could sing the song and be
+guaranteed to have it be truth because of papal infallibility. This is falsehood. The doctrine of papal infallibility applies only to the religious doctrine of the Catholic
+Church. Papal infallibility has only been invoked twice making the Immaculate Conception and Assumption of Mary timeless Catholic doctrine. The subject of the song does
+not fall under possible timeless Catholic doctrine, as timeless Catholic doctrine cannot be made contradictory with itself. Anyone who claims papal infallibility is a loophole
+for this song is simply incorrect.
+6. The concept of Antipope gets closer to loophole territory. Historically there have been times when multiple humans claimed to be the Pope. The Vatican has an official list
+of historical popes. The title of Antipope is bestowed on humans who had a legitimate claim to be Pope, but lost out in the end (the Vatican doesn't publish a list of Antipopes).
+For an Antipope "I am the Pope" is claimed true at the time and "I'm not the Pope" is true in a historical sense. But both of those can't be true at the same point in time.
+The only loophole here is if truth can exist in the presence of logical contradiction, which is not possible in human logic (past or present).
