@@ -40,7 +40,7 @@ cardinals elevate one of their own to be pope, so there are really ~240 cardinal
 140-150 strong pool of truly realistic candidates. We could probably go further if we understood the political dynamics of the cardinals, but this is as close as this analysis gets. Becoming a cardinal
 requires becoming a priest and bishop first, which is a lot of training. There is only one Pope at a time, with a brief vacancy occurring between popes.
 
-Truth Detector
+Truth/Untruth Detector
 
 One general problem is determining when a human is telling the truth. This is especially challenging if the human is you and you're not sure if you're telling the
 truth. For example, your subconscious may have a better understanding then you do. Any divine or cosmic forces watching you may also have a better idea of the truth.
@@ -114,3 +114,10 @@ Benedict IX:
 The biggest problem for the song is Benedict's second reign which lasts ~50 days. This corresponds to beats 29-43 of the song which can expand to 28-44 if we include
 indeterminate boundary points. But that limits the song length itself to ~200 days. Benedict IX was not the pope between 1045-05-01 and at least 1047-10-01 which is
 over 500 days. Thus the song cannot be cheated using tempo slowdown to cover Benedict's IX papacy. Sending the song back in time using Benedict IX won't work.
+
+Truth/Untruth Detector Usefulness
+
+Since the song's truth value is always untruth, singing it resets the user's truth flag to a clean slate of untruth. Then the singer can say something whose truth value 
+is in question. Any truth detected after that point must be attributed to the post-song statement, since it cannot be attributed to the song or anything said previous
+to the song. This could be useful for an entity (including oneself) trying to glean information of the truth of a statement. It also could be useful in resolving conflicts 
+between multiple truth/untruth detection method producing contradictory results.
