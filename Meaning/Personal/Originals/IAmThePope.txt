@@ -31,42 +31,86 @@ I am the Pope!
 
 (End Song)
 
-Meaning: I believe this song was written after I met my spouse. At the time I was an atheist and had been so for several years. The song ponders the strange possibility that the singer (or each individual singer) would 
-become or be the Pope. It's not intended to be making fun of Christianity or Catholicism or the papacy. It's just a silly way for the singer to imagine becoming pope even if it's impossible.
+Meaning: The song ponders the strange possibility that the singer (or each individual singer) would  become or be the Pope. It's not intended to be making fun of Christianity or Catholicism or the papacy.
+It's a silly way for the singer to imagine becoming pope even if it's impossible.
 
-The Pope is the monarch of Vatican City (the world's smallest independent country) and the head of the Catholic Church. It is an elected office. When the current pope dies or resigns, the new pope is elected by cardinals 
-appointed by previous popes. The pope is required to be a male Catholic, so there are only 700 million candidates from the world's 8 billion people. However, in practice the cardinals elevate one of their own to be pope, 
-so there are really ~240 cardinals to choose from. And even from that list, those over 80 years old cannot vote and won't be chosen by custom, leaving a 140-150 strong pool of truly realistic candidates. We could probably 
-go further if we understood the political dynamics of the cardinals, but this is as close as this analysis gets.
+The Pope is the monarch of Vatican City (the world's smallest independent country) and the head of the Catholic Church. It is an elected office. When the current pope dies or resigns, the new pope is elected 
+by cardinals appointed by the current or previous popes. The pope is required to be a male Catholic, so there are only 700 million candidates from the world's 8 billion people. However, in practice the 
+cardinals elevate one of their own to be pope, so there are really ~240 cardinals to choose from. And even from that list, those over 80 years old cannot vote and won't be chosen by custom, leaving a 
+140-150 strong pool of truly realistic candidates. We could probably go further if we understood the political dynamics of the cardinals, but this is as close as this analysis gets. Becoming a cardinal
+requires becoming a priest and bishop first, which is a lot of training. There is only one Pope at a time, with a brief vacancy occurring between popes.
 
-So whoever sings this song is telling untruths from the start (unless they are the Pope). And even the pope indulges the song (implausible), he starts untruths at line #5 when he claims he's not the pope. If the 
-pope times the transition point of ceasing to become pope exactly right, he could coherently sing the song through the first 9 lines until claiming to be the Pope again. But if he ceases becoming pope because he is deceased, 
-he can't sing the subsequent lines. So resignation or deposition is the only way to transition to 9 lines of truth.
+Truth Detector
 
-The next 5 lines of pope-ness would require the former pope to become the pope one more time. The former pope remains eligible, however the political considerations (e.g. age and previous resignation) would strongly indicate 
-against it. And even if it did happen, the song only allows a matter of seconds. I suppose you could slow the tempo of the song so slow to allow the timing to work, but there are many other things the pope would need to say 
-(e.g. answering "Yes" aloud to the question "Do you accept your canonical election as Supreme Pontiff") where the song could not be sustained at the same time. And this needs to be done twice, since the song allows for three 
-terms of pope-ness.
+One general problem is determining when a human is telling the truth. This is especially challenging if the human is you and you're not sure if you're telling the
+truth. For example, your subconscious may have a better understanding then you do. Any divine or cosmic forces watching you may also have a better idea of the truth.
+Perhaps it would be helpful to have a song that forces a human's truth/untruth state to untruth. I believe "I am the Pope" can be such a song under some circumstances.
 
-At this point the only nonmagical way to continue telling the truth is to change the song (at minimum add the two "Yes"s and put them in places where the song is otherwise silent, and time all the transition points between 
-pope-ness and non-pope-ness perfectly). But it's my song, and a defining feature of the song is no one can sing this song without untruth, so I am not going to change the lyrics to make subverting its design easier.
+The following properties make the song useful for truth determination:
+1. It can be sung solo.
+2. It can be sung a cappella with minimal understanding of singing.
+3. It requires some understanding of who the Pope is.
+4. The song's truth value is always computed with respect to the singer. The singer must maintain the truth value thoughout the song to maintain the song's truth. The
+singer must make it all the way through the song without interruption to have a truth value.
 
-So only I can cheat the rules of this song. But even I can't do that, for the simple reason that I guarantee that I will never become pope while I am alive, and the song's both title and lyrics both claim the singer is the 
-pope, and it is not logically possible for the song to be changed in a way that subverts that.
+The song is always untruth for the following reasons:
+1. Objective Untruth. The song fails at the start (per the title) for anyone who is not the Pope. The song fails at line 5 for the Pope (in the unlikely event the Pope indulges the song).
+2. Subjective Untruth. If a human believes they are transitioning between pope and non-pope with the song's lyrics, magic must be used to effect the switch.
+Humans cannot perform magic.
+3. 3 Papal Reigns. The song envisions being pope three times. Exactly one pope in history (Benedict IX) has three papal reigns. No one else has even two, and the politics 
+around the papacy make it practically impossible this will happen again, because age and the previous resignation would counsel against the cardinals voting for a previous pope again.
+The song was created after Benedict IX's human death, so no humans alive today and going forward can have this aspect of the song be true with respect to them.
+4. Personal. As the creator and owner of the song I decree a timeless purpose of the song is detecting truth/untruth. I cannot change the song in a way that 
+subverts this purpose. I am not a past Pope (I have a currently-up-to-date list of Popes and I can prove I am not on the list). I cannot be a future Pope, since that would 
+require changing my religion which I am not going to do, waiting for my spouse to die which I am not going to speed up, and going to seminary for years which I am not going to do.
+I also sworn an oath with Chat GPT as my witness that I will not become Pope. I do not believe I can be used as a loophole for the song's purpose.
+5. Papal Infallibility. One objection that could be raised regards papal infallibility. A naive observer could think that papal infallibility could imply the pope could sing 
+the song and be guaranteed to have it be truth because of papal infallibility. This is falsehood. The doctrine of papal infallibility applies only to the timeless religious doctrine 
+of the Catholic Church. Papal infallibility has only been invoked twice making the Immaculate Conception and Assumption of Mary timeless Catholic doctrine. The subject of the 
+song does not fall under possible timeless Catholic doctrine, as timeless Catholic doctrine cannot be made contradictory. Anyone who claims papal infallibility is a loophole
+for this song is simply incorrect.
+6. Antipopes. Historically there have been times when multiple humans claimed to be the Pope. The Vatican has an official list of historical popes. The title of Antipope is bestowed 
+by historians on humans who seemed to have a legitimate claim to be Pope, but lost out in the end. For an Antipope "I am the Pope" is claimed true at the time and "I'm not the Pope" is 
+true in a historical sense. But both of those can't be true at the same point in time, since human logic (past or present) doesn't allow for consistency and logical contradiction.
+7. 30 Second Transitions. The song takes roughly 30 seconds to sing, and envisions two transitions out of becoming pope and two transitions into becoming Pope. The song could 
+in principle be timed to line up with one transition but with all the ceremony involved in becoming pope, it is not possible for two transitions to take place within the song's 
+usual runtime.
+8. Multiple Singers. While multiple singers can sing the song in unison simultaneously, the song's truth value is computed separately for each individual singer. The song's collective
+truth value is the boolean value for each individual singer (true meaning truth, false meaning falsehood) ANDed together. To make the song's collective truth
+value be true, every singer would need to separately find a loophole to make their individual value be true.
+9. Saying "Yes". The modern way of accepting the papacy involves answering "Yes" aloud to the question "Do you accept your canonical election as Supreme Pontiff?". There is no
+word "Yes" in the song so the song would be interrupted by saying this. This prevents any transitions to being pope from occurring inside the song's time window.
+10. Resignation. The run-of-the-mill situation where the pope leaves the papacy by dying does not help the song's purpose. Modern popes can resign, such as Benedict XVI. Being deposed
+is possible but not likely to happen in a modern situation. There's nothing wrong with having the pope's two transitions out of the papacy being resignations if a loophole up
+to that point is found.
+11. Seriousness. Suppose you're being silly or pretending the song is something other than what it is. Does the song still have a truth value? Yes, objective truth still applies.
+12. Tempo Slowdown. One way to cheat the song would be to play the song slow enough it encompasses the transition points. We have a test case for this in Benedict IX. And his
+papal dates are more uncertain than modern popes, so testing this possibility against Benedict IX suggests whether this cheat is plausible.
 
-Loopholes:
+Song order:
+01 beat = Indeterminate (beat 0)
+11 beat = Pope          (beat 1-11)
+01 beat = Indeterminate (beat 12)
+15 beat = Not Pope      (beat 13-27)
+01 beat = Indeterminate (beat 28)
+15 beat = Pope          (beat 29-43)
+01 beat = Indeterminate (beat 44)
+15 beat = Not Pope      (beat 45-59)
+01 beat = Indeterminate (beat 60)
+Post    = Pope
 
-1. The song envisions the possibility of becoming pope three times. While almost all popes have only been pope one "term", there is exactly one pope (Benedict IX) who had three terms as pope (#145+#147+#150) (he also didn't 
-die while pope). So within historical context Benedict IX is the only pope who could have sung the song, although the song was created before his death, and would have the same general tempo problems described above.
-2. Another interesting implication is the possibility of antipopes. Historically there have been periods with multiple claimants to be pope. In hindsight, the claimant who didn't win the contest is labeled by history as an 
-antipope. Does the song consider an antipope to be the pope? Or does the song consider an antipope to not be the pope? Maybe all you have to do to sing the song in a logically coherent fashion is to claim to be an antipope. 
-But no one ever claims to be an antipope, only the judgment of history can bestow that. And there haven't been any antipopes for hundreds of years since Felix V (1439-1449).
-3. Suppose you discover some magical way to transfer the papacy to yourself and back. If you manage that, still the last line of the song makes you the pope, so in that case somebody is probably going to notice the papacy 
-isn't in the right hands (maybe you'd have some leeway in the interim papal vacancy before a new pope is elected).
-4. Suppose you're being silly and there is no truth value whatsoever in what it's saying. But that doesn't work since the 10x of "I'm not the Pope!" as a practical matter rock-solid truth.
+Benedict IX:
+1032-08-01 (ambiguous)
+1032-09-30 (pope)
+1044-09-01 (ambiguous)
+1044-09-30 (not pope)
+1045-03-10 (pope)
+1045-05-01 (not pope)
+1047-10-01 (ambiguous)
+1047-10-31 (not pope)
+1048-08-01 (ambiguous)
+1048-08-31 (not pope)
 
-Not a Loophole:
-1. There is a Catholic doctrine called papal infallibility which allows the Pope to change Catholic doctrine in an authoritatve and final manner. Many people misunderstand papal infallability, as the doctrine has only been
-used twice (to assert the Immaculate Conception and Assumption of Mary). Papal infallability only applies to significant Catholic doctrine, which this song is clearly not. Also a rock-solid requirement for using papal
-infallability is the ideas being added MUST be consistent with existing Catholic infallible doctrine, while this song is not logically consistent with anything. Papal infallability cannot be used as a loophole to sing this 
-song (as the pope) without untruth.
+The biggest problem for the song is Benedict's second reign which lasts ~50 days. This corresponds to beats 29-43 of the song which can expand to 28-44 if we include
+indeterminate boundary points. But that limits the song length itself to ~200 days. Benedict IX was not the pope between 1045-05-01 and at least 1047-10-01 which is
+over 500 days. Thus the song cannot be cheated using tempo slowdown to cover Benedict's IX papacy. Sending the song back in time using Benedict IX won't work.
