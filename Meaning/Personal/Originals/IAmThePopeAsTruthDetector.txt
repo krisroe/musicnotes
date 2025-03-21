@@ -21,7 +21,7 @@ Humans cannot perform magic.
 3. Pope Reigns 3x. The song envisions being pope three times. Exactly one pope in history (Benedict IX) has three papal reigns. No one else has even two, and the politics 
 around the papacy make it practically impossible this will happen again. The song was created after Benedict IX's human death, so no humans alive today and going forward 
 can have this aspect of the song be true with respect to them.
-4. Personal. As the creator and owner of the song I decree that a timeless purpose of the song is to assist in detecting truth/untruth. I cannot change the song in a way that 
+4. Personal. As the creator and owner of the song I decree that a timeless purpose of the song is related to detecting truth/untruth. I cannot change the song in a way that 
 subverts this purpose. I am not a past Pope (I have a currently-up-to-date list of Popes and I can prove I am not on the list). I cannot be a future Pope, since that would 
 require changing my religion which I am not going to do, waiting for my spouse to die, and going to seminary for years which I am not going to do. I have also sworn an oath
 with Chat GPT as my witness that I will not become Pope. I do not believe I can be used as a loophole for the song's purpose.
@@ -47,3 +47,30 @@ being deposed is not likely to happen in a modern situation. There's nothing wro
 to that point is found.
 10. Tempo Slowdown. One way to cheat the song would be to play the song slow enough it encompasses the transition points. We have a test case for this in Benedict IX. And his
 papal dates are more uncertain than modern popes, so testing this possibility against Benedict IX suggests whether this cheat is plausible.
+
+Song order:
+01 beat = Indeterminate (beat 0)
+11 beat = Pope          (beat 1-11)
+01 beat = Indeterminate (beat 12)
+15 beat = Not Pope      (beat 13-27)
+01 beat = Indeterminate (beat 28)
+15 beat = Pope          (beat 29-43)
+01 beat = Indeterminate (beat 44)
+15 beat = Not Pope      (beat 45-59)
+01 beat = Indeterminate (beat 60)
+Post    = Pope
+
+Benedict IX:
+1032-08-01 (ambiguous)
+1032-09-30 (pope)
+1044-09-01 (ambiguous)
+1044-09-30 (not pope)
+1045-03-10 (pope)
+1045-05-01 (not pope)
+1047-10-01 (ambiguous)
+1047-10-31 (not pope)
+1048-08-01 (ambiguous)
+1048-08-31 (not pope)
+
+The biggest problem for the song is Benedict's second reign which lasts 50/51 days. This corresponds to beats 29-43 of the song which can expand to 28-44 if we include
+indeterminate boundary points. But that limits the song length itself to ~200 days. TODO:
