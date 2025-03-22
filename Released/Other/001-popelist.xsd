@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="popes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="p" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" maxOccurs="2" minOccurs="1">
+                <xs:complexType mixed="true">
+                  <xs:attribute name="n" type="xs:string" use="required"/>
+                  <xs:attribute name="r" type="xs:positiveInteger" use="required"/>
+                  <xs:attribute name="only" type="xs:boolean" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element name="StartDate" minOccurs="0" maxOccurs="3">
+                <xs:complexType>
+                  <xs:attribute name="event" use="optional">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:enumeration value="election"/>
+                        <xs:enumeration value="election-disputed"/>
+                        <xs:enumeration value="enthroned"/>
+                        <xs:enumeration value="coronation"/>
+                        <xs:enumeration value="installation"/>
+                        <xs:enumeration value="appointment"/>
+                        <xs:enumeration value="designated"/>
+                        <xs:enumeration value="restoration"/>
+                        <xs:enumeration value="consecration"/>
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:attribute>
+                  <xs:attribute name="d" type="xs:string" use="optional"/>
+                  <xs:attribute name="d1" type="xs:string" use="optional"/>
+                  <xs:attribute name="d2" type="xs:string" use="optional"/>
+                  <xs:attribute name="d3" type="xs:string" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+
+              <xs:element name="EndDate" minOccurs="0" maxOccurs="1">
+                <xs:complexType>
+                  <xs:attribute name="event" use="optional">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:enumeration value="death"/>
+                        <xs:enumeration value="martyred"/>
+                        <xs:enumeration value="deposed"/>
+                        <xs:enumeration value="resigned"/>
+                        <xs:enumeration value="murdered"/>
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:attribute>
+                  <xs:attribute name="d" type="xs:string" use="optional"/>
+                  <xs:attribute name="d1" type="xs:string" use="optional"/>
+                  <xs:attribute name="d2" type="xs:string" use="optional"/>
+                  <xs:attribute name="d3" type="xs:string" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+
+            </xs:sequence>
+            <xs:attribute name="number" type="xs:positiveInteger" use="required"/>
+            <xs:attribute name="century" type="xs:integer" use="required"/>
+            <xs:attribute name="birthplace" type="xs:string" use="optional"/>
+            <xs:attribute name="secularname" type="xs:string" use="optional"/>
+            <xs:attribute name="reign" type="xs:positiveInteger" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

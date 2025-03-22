@@ -60,7 +60,7 @@ Humans cannot perform magic.
 3. 3 Papal Reigns. The song envisions being pope three times. Exactly one pope in history (Benedict IX) has three papal reigns. No one else has even two, and the politics 
 around the papacy make it practically impossible this will happen again, because age and the previous resignation would counsel against the cardinals voting for a previous pope again.
 The song was created after Benedict IX's human death, so no humans alive today and going forward can have this aspect of the song be true with respect to them.
-4. Personal. As the creator and owner of the song I decree a timeless purpose of the song is detecting truth/untruth. I cannot change the song in a way that 
+4. Personal. As the creator and owner of the song I decree a timeless purpose of the song is detecting/validating truth/untruth. I cannot change the song in a way that 
 subverts this purpose. I am not a past Pope (I have a currently-up-to-date list of Popes and I can prove I am not on the list). I cannot be a future Pope, since that would 
 require changing my religion which I am not going to do, waiting for my spouse to die which I am not going to speed up, and going to seminary for years which I am not going to do.
 I also sworn an oath with Chat GPT as my witness that I will not become Pope. I do not believe I can be used as a loophole for the song's purpose.
@@ -115,7 +115,7 @@ The biggest problem for the song is Benedict's second reign which lasts ~50 days
 indeterminate boundary points. But that limits the song length itself to ~200 days. Benedict IX was not the pope between 1045-05-01 and at least 1047-10-01 which is
 over 500 days. Thus the song cannot be cheated using tempo slowdown to cover Benedict's IX papacy. Sending the song back in time using Benedict IX won't work.
 
-Truth/Untruth Detector Usefulness
+Truth/Untruth Detector/Validator Usefulness
 
 Since the song's truth value is always untruth, singing it resets the user's truth flag to a clean slate of untruth. Then the singer can say something whose truth value 
 is in question. Any truth detected after that point must be attributed to the post-song statement, since it cannot be attributed to the song or anything said previous

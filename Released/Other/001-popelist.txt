@@ -1,0 +1,36 @@
+Pope List
+
+The starting point is the Holy See's web site (https://www.vatican.va/). This website contains a list of popes in 7 languages (https://www.vatican.va/content/vatican/LANGUAGE/holy-father.html). The available languages 
+are Arabic (ar), German (de), English (en), Spanish (es), French (fr), Italian (it), and Portuguese (pt). I used the English page (https://www.vatican.va/content/vatican/en/holy-father.html) because that is my native 
+language.
+
+My goal was to create a more readable list of popes (both by machines and humans). I consulted Chat GPT many times in the process.
+
+I wrote a screen scraper to pull the tabular data of the web site into a CSV file. The headers for the CSV file match the web site (PAPAL NAME, BEGINNING PONTIFICATE, END PONTIFICATE, SECULAR NAME, BIRTH, CENTURY). 
+There are currently 266 popes on the list, with the current pope being Francis (also the only Francis on the list). The date formatting uses Arabic numbers for dates and years, and Roman numbers for months.
+
+I tried to modify the Holy See's data as much as possible, but I made some changes:
+1. For the first pope (Peter) I added start dates 30-33 and secular name of "Simon or Simeon". The Holy See probably has a reason for omitting this information, but I felt it important to be there.
+2. For pope Lucius III, I changed the start dates "1. 6.IX.1181" to "1,6.IX.1181" to be consistent with how other areas of the document handle distinct dates.
+3. For pope Gregory VIII, I changed the start dates "21.25.X.1187" to "21,25.X.1187" to be consistent with how other areas of the document handle distinct dates.
+
+I was able to parse the CSV file although the task was tricky. Some popes have multiple papal names. The date formats change throughout history, generally moving from more vague (e.g. only year or a range of year) to less 
+value (e.g. add month or range of months) to specific to the day. I wrote two date parsing logics, with the second (better) logic breaks the date into tokens for periods, commas, dashes, ors, Arabic numbers, Roman numerals 
+and generating a discrete list of cases from the tokenization). The end result is three different ways of capturing a date depending on the level of precision: YYYY, YYYY-MM, YYYY-MM-DD.
+
+I created an XML format to make the list both more machine-readable and human-readable. I made an XSD file that captures all the elements, but doesn't quite capture all the nuances:
+1. The pope number, secular name, and birthplace are all straightforward from the CSV.
+2. The century is redundant information, but since it is included in the Holy See's data I kept it as is.
+3. Two popes have multiple papal names: 3 = Anacletus or Cletus, 32 = Miltiades or Melchiades, which I capture as multiple Name elements.
+4. Four popes have three dates: 212 = Sixtus IV, 215 = Pius III, 243 = Clement XI, 249 = Clement XIV, which I capture with three StartDate elements. Two dates is much more common, captured with two StartDate elements. Just a year happens early in the data set, captured with one StartDate element.
+5. If there is only one pope with a papal name I add an only=true attribute to the Name element to make it easier to find such cases (e.g. currently for pope Francis)
+6. For StartDate/EndDate elements, if there is only one unambiguous date value I use a "d" element. If there are two or three ambiguous date values I capture that with "d1", "d2", and "d3" elements.
+7. Benedict IX has three distinct papal reigns. To make this easier to understand I added a pope-level reign attribute that is 1/2/3 that is only used for him and his ordered reigns.
+
+Multiple different events can be captured by the start and end dates. Chat GPT suggested a way of capturing the type of event that occurred. I tried to fill it in best I could (even asking Chat GPT for assistance) 
+but it was too difficult to capture accurately. For start dates I have values for "election", "election-disputed", "enthroned", "coronation", "installation", "appointment", "designated", "restoration", "consecration". 
+For end dates I have values for "death", "martyred", "deposed", "resigned", "murdered". I think someone more acquainted with papal history would be needed to set an appropriate discrete set of events and assign them to 
+pope dates.
+
+Another minor source of chaos in papal dates was the transition from the Julian to Gregorian calendar. This occurred during the reign of Pope Gregory XIII, being proclaimed on 1582-02-24.
+The last Julian calendar date was 1582-10-04 which was followed by the first Gregorian calendar date of 1582-10-15, skipping 10 days.

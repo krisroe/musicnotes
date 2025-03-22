@@ -1,0 +1,1462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<popes>
+ <p number="1" century="1" secularname="Simon or Simeon" birthplace="Bethsaida of Galilee">
+  <Name n="Peter" r="1" only="true" />
+  <StartDate d1="0030" d2="0033" event="designated" />
+  <EndDate d1="0064" d2="0067" event="martyred" />
+ </p>
+ <p number="2" century="1" birthplace="Tuscia">
+  <Name n="Linus" r="1" only="true" />
+  <StartDate d="0068" event="installation" />
+  <EndDate d="0079" event="death" />
+ </p>
+ <p number="3" century="1" birthplace="Rome">
+  <Name n="Anacletus" r="1" only="true" />
+  <Name n="Cletus" r="1" only="true" />
+  <StartDate d="0080" event="installation" />
+  <EndDate d="0092" event="martyred" />
+ </p>
+ <p number="4" century="1" birthplace="Rome">
+  <Name n="Clement" r="1" />
+  <StartDate d="0092" event="installation" />
+  <EndDate d="0099" event="martyred" />
+ </p>
+ <p number="5" century="1" birthplace="Greece">
+  <Name n="Evaristus" r="1" only="true" />
+  <StartDate d1="0096" d2="0099" event="installation" />
+  <EndDate d="0108" event="death" />
+ </p>
+ <p number="6" century="2" birthplace="Rome">
+  <Name n="Alexander" r="1" />
+  <StartDate d1="0108" d2="0109" event="installation" />
+  <EndDate d1="0116" d2="0119" event="death" />
+ </p>
+ <p number="7" century="2" birthplace="Rome">
+  <Name n="Sixtus" r="1" />
+  <StartDate d1="0117" d2="0119" event="installation" />
+  <EndDate d1="0126" d2="0128" event="death" />
+ </p>
+ <p number="8" century="2" birthplace="Greece">
+  <Name n="Telesphorus" r="1" only="true" />
+  <StartDate d1="0127" d2="0128" event="installation" />
+  <EndDate d1="0137" d2="0138" event="martyred" />
+ </p>
+ <p number="9" century="2" birthplace="Greece">
+  <Name n="Hyginus" r="1" only="true" />
+  <StartDate d="0138" event="installation" />
+  <EndDate d1="0142" d2="0149" event="death" />
+ </p>
+ <p number="10" century="2" birthplace="Aquileia">
+  <Name n="Pius" r="1" />
+  <StartDate d1="0142" d2="0146" event="installation" />
+  <EndDate d1="0157" d2="0161" event="death" />
+ </p>
+ <p number="11" century="2" birthplace="Emesa (Syria)">
+  <Name n="Anicetus" r="1" only="true" />
+  <StartDate d1="0150" d2="0157" event="installation" />
+  <EndDate d1="0153" d2="0168" event="death" />
+ </p>
+ <p number="12" century="2" birthplace="Fondi">
+  <Name n="Soterus" r="1" only="true" />
+  <StartDate d1="0162" d2="0168" event="installation" />
+  <EndDate d1="0170" d2="0177" event="death" />
+ </p>
+ <p number="13" century="2" birthplace="Nicopolis (Epirus)">
+  <Name n="Eleutherius" r="1" only="true" />
+  <StartDate d1="0171" d2="0177" event="installation" />
+  <EndDate d1="0185" d2="0193" event="death" />
+ </p>
+ <p number="14" century="2" birthplace="Africa">
+  <Name n="Victor" r="1" />
+  <StartDate d1="0186" d2="0189" event="installation" />
+  <EndDate d1="0197" d2="0201" event="death" />
+ </p>
+ <p number="15" century="2" birthplace="Rome">
+  <Name n="Zephyrinus" r="1" only="true" />
+  <StartDate d="0198" event="installation" />
+  <EndDate d1="0217" d2="0218" event="death" />
+ </p>
+ <p number="16" century="3">
+  <Name n="Callistus" r="1" />
+  <StartDate d="0218" event="installation" />
+  <EndDate d="0222" event="death" />
+ </p>
+ <p number="17" century="3" birthplace="Rome">
+  <Name n="Urban" r="1" />
+  <StartDate d="0222" event="installation" />
+  <EndDate d="0230" event="death" />
+ </p>
+ <p number="18" century="3" birthplace="Rome">
+  <Name n="Pontianus" r="1" only="true" />
+  <StartDate d="0230-07-21" event="installation" />
+  <EndDate d="0235-09-28" event="resigned" />
+ </p>
+ <p number="19" century="3" birthplace="Greece">
+  <Name n="Anterus" r="1" only="true" />
+  <StartDate d="0235-11-21" event="installation" />
+  <EndDate d="0236-01-03" event="death" />
+ </p>
+ <p number="20" century="3" birthplace="Rome">
+  <Name n="Fabian" r="1" only="true" />
+  <StartDate d="0236" event="installation" />
+  <EndDate d="0250-01-20" event="martyred" />
+ </p>
+ <p number="21" century="3" birthplace="Rome">
+  <Name n="Cornelius" r="1" only="true" />
+  <StartDate d1="0251-03-06" d2="0251-03-13" event="installation" />
+  <EndDate d="0253-06" event="death" />
+ </p>
+ <p number="22" century="3" birthplace="Rome">
+  <Name n="Lucius" r="1" />
+  <StartDate d1="0253-06" d2="0253-07" event="installation" />
+  <EndDate d="0254-03-05" event="death" />
+ </p>
+ <p number="23" century="3" birthplace="Rome">
+  <Name n="Stephen" r="1" />
+  <StartDate d="0254-03-12" event="installation" />
+  <EndDate d="0257-08-02" event="martyred" />
+ </p>
+ <p number="24" century="3" birthplace="Greece">
+  <Name n="Sixtus" r="2" />
+  <StartDate d="0257-08-30" />
+  <EndDate d="0258-08-06" event="martyred" />
+ </p>
+ <p number="25" century="3" birthplace="Unknown">
+  <Name n="Dionysius" r="1" only="true" />
+  <StartDate d="0259-07-22" event="installation" />
+  <EndDate d="0268-12-26" event="death" />
+ </p>
+ <p number="26" century="3" birthplace="Rome">
+  <Name n="Felix" r="1" />
+  <StartDate d="0269-01-05" event="installation" />
+  <EndDate d="0274-12-30" event="death" />
+ </p>
+ <p number="27" century="3" birthplace="Luni">
+  <Name n="Eutichianus" r="1" only="true" />
+  <StartDate d="0275-01-04" event="installation" />
+  <EndDate d="0283-12-07" event="death" />
+ </p>
+ <p number="28" century="3" birthplace="Dalmatia">
+  <Name n="Caius" r="1" only="true" />
+  <StartDate d="0283-12-17" event="installation" />
+  <EndDate d="0296-04-22" event="death" />
+ </p>
+ <p number="29" century="3" birthplace="Rome">
+  <Name n="Marcellinus" r="1" only="true" />
+  <StartDate d="0296-06-30" />
+  <EndDate d="0304-10-25" />
+ </p>
+ <p number="30" century="4" birthplace="Rome">
+  <Name n="Marcellus" r="1" />
+  <StartDate d="0306" />
+  <EndDate d="0309-01-16" />
+ </p>
+ <p number="31" century="4" birthplace="Greece">
+  <Name n="Eusebius" r="1" only="true" />
+  <StartDate d="0309-04-18" />
+  <EndDate d="0309-08-17" />
+ </p>
+ <p number="32" century="4" birthplace="Africa">
+  <Name n="Miltiades" r="1" only="true" />
+  <Name n="Melchiades" r="1" only="true" />
+  <StartDate d="0311-07-02" event="installation" />
+  <EndDate d="0314-01-10" event="death" />
+ </p>
+ <p number="33" century="4" birthplace="Rome">
+  <Name n="Sylvester" r="1" />
+  <StartDate d="0314-01-31" event="installation" />
+  <EndDate d="0335-12-31" event="death" />
+ </p>
+ <p number="34" century="4" birthplace="Rome">
+  <Name n="Mark" r="1" only="true" />
+  <StartDate d="0336-01-18" event="installation" />
+  <EndDate d="0336-10-07" event="death" />
+ </p>
+ <p number="35" century="4" birthplace="Rome">
+  <Name n="Julius" r="1" />
+  <StartDate d="0337-02-06" />
+  <EndDate d="0352-04-12" />
+ </p>
+ <p number="36" century="4" birthplace="Romano">
+  <Name n="Liberius" r="1" only="true" />
+  <StartDate d="0352-05-17" />
+  <EndDate d="0366-09-24" />
+ </p>
+ <p number="37" century="4" birthplace="Rome">
+  <Name n="Damasus" r="1" />
+  <StartDate d="0366-10-01" />
+  <EndDate d="0384-12-11" />
+ </p>
+ <p number="38" century="4" birthplace="Rome">
+  <Name n="Siricius" r="1" only="true" />
+  <StartDate d1="0384-12-15" d2="0384-12-22" d3="0384-12-29" event="installation" />
+  <EndDate d="0399-11-26" event="death" />
+ </p>
+ <p number="39" century="4" birthplace="Rome">
+  <Name n="Anastasius" r="1" />
+  <StartDate d="0399-11-27" />
+  <EndDate d="0401-12-19" />
+ </p>
+ <p number="40" century="5" birthplace="Albano">
+  <Name n="Innocent" r="1" />
+  <StartDate d="0401-12-22" />
+  <EndDate d="0417-03-12" />
+ </p>
+ <p number="41" century="5" birthplace="Greece">
+  <Name n="Zosimus" r="1" only="true" />
+  <StartDate d="0417-03-18" />
+  <EndDate d="0418-12-26" />
+ </p>
+ <p number="42" century="5" birthplace="Rome">
+  <Name n="Boniface" r="1" />
+  <StartDate d="0418-12-28" />
+  <StartDate d="0418-12-29" />
+  <EndDate d="0422-09-04" />
+ </p>
+ <p number="43" century="5" birthplace="Campania">
+  <Name n="Celestine" r="1" />
+  <StartDate d="0422-09-10" />
+  <EndDate d="0432-07-27" />
+ </p>
+ <p number="44" century="5" birthplace="Rome">
+  <Name n="Sixtus" r="3" />
+  <StartDate d="0432-07-31" />
+  <EndDate d="0440-08-19" />
+ </p>
+ <p number="45" century="5" birthplace="Tuscia">
+  <Name n="Leo" r="1" />
+  <StartDate d="0440-09-29" />
+  <EndDate d="0461-11-10" />
+ </p>
+ <p number="46" century="5" birthplace="Sardinia">
+  <Name n="Hilarius" r="1" only="true" />
+  <StartDate d="0461-11-19" />
+  <EndDate d="0468-02-29" />
+ </p>
+ <p number="47" century="5" birthplace="Tivoli">
+  <Name n="Simplicius" r="1" only="true" />
+  <StartDate d="0468-03-03" />
+  <EndDate d="0483-03-10" />
+ </p>
+ <p number="48" century="5" birthplace="Rome">
+  <Name n="Felix" r="3" />
+  <StartDate d="0483-03-13" event="installation" />
+  <EndDate d1="0492-02-25" d2="0492-03-01" event="death" />
+ </p>
+ <p number="49" century="5" birthplace="Africa">
+  <Name n="Gelasius" r="1" />
+  <StartDate d="0492-03-01" event="installation" />
+  <EndDate d="0496-11-21" event="death" />
+ </p>
+ <p number="50" century="5" birthplace="Rome">
+  <Name n="Anastasius" r="2" />
+  <StartDate d="0496-11-24" />
+  <EndDate d="0498-11-19" />
+ </p>
+ <p number="51" century="5" birthplace="Sardinia">
+  <Name n="Symmachus" r="1" only="true" />
+  <StartDate d="0498-11-22" />
+  <EndDate d="0514-07-19" />
+ </p>
+ <p number="52" century="6">
+  <Name n="Hormisdas" r="1" only="true" />
+  <StartDate d="0514-07-20" />
+  <EndDate d="0523-08-06" />
+ </p>
+ <p number="53" century="6" birthplace="Tuscia">
+  <Name n="John" r="1" />
+  <StartDate d="0523-08-13" />
+  <EndDate d="0526-05-18" />
+ </p>
+ <p number="54" century="6" birthplace="Samnium">
+  <Name n="Felix" r="4" />
+  <StartDate d="0526-07-12" event="appointment" />
+  <EndDate d1="0530-09-20" d2="0530-09-22" event="death" />
+ </p>
+ <p number="55" century="6" birthplace="Rome">
+  <Name n="Boniface" r="2" />
+  <StartDate d1="0530-09-20" d2="0530-09-22" event="installation" />
+  <EndDate d="0532-10-17" event="death" />
+ </p>
+ <p number="56" century="6" secularname="Mercurio" birthplace="Rome">
+  <Name n="John" r="2" />
+  <StartDate d1="0532-12-31" d2="0533-01-02" event="installation" />
+  <EndDate d="0535-05-08" event="death" />
+ </p>
+ <p number="57" century="6" birthplace="Rome">
+  <Name n="Agapetus" r="1" />
+  <StartDate d="0535-05-13" />
+  <EndDate d="0536-04-22" />
+ </p>
+ <p number="58" century="6" birthplace="Frosinone">
+  <Name n="Silverius" r="1" only="true" />
+  <StartDate d="0536-06-08" event="installation" />
+  <EndDate d="0537" event="deposed" />
+ </p>
+ <p number="59" century="6" birthplace="Rome">
+  <Name n="Vigilius" r="1" only="true" />
+  <StartDate d="0537-03-29" />
+  <EndDate d="0555-06-07" />
+ </p>
+ <p number="60" century="6" birthplace="Rome">
+  <Name n="Pelagius" r="1" />
+  <StartDate d="0556-04-16" />
+  <EndDate d="0561-03-04" />
+ </p>
+ <p number="61" century="6" secularname="Catalino" birthplace="Rome">
+  <Name n="John" r="3" />
+  <StartDate d="0561-07-17" />
+  <EndDate d="0574-07-13" />
+ </p>
+ <p number="62" century="6" birthplace="Rome">
+  <Name n="Benedict" r="1" />
+  <StartDate d="0575-06-02" />
+  <EndDate d="0579-07-30" />
+ </p>
+ <p number="63" century="6" birthplace="Rome">
+  <Name n="Pelagius" r="2" />
+  <StartDate d="0579-11-26" />
+  <EndDate d="0590-02-07" />
+ </p>
+ <p number="64" century="6" birthplace="Rome">
+  <Name n="Gregory" r="1" />
+  <StartDate d="0590-09-03" event="installation" />
+  <EndDate d="0604-03-12" event="death" />
+ </p>
+ <p number="65" century="7" birthplace="Blera, Tuscia">
+  <Name n="Sabinian" r="1" only="true" />
+  <StartDate d="0604-03" />
+  <StartDate d="0604-09-13" />
+  <EndDate d="0606-02-22" />
+ </p>
+ <p number="66" century="7" birthplace="Rome">
+  <Name n="Boniface" r="3" />
+  <StartDate d="0607-02-19" />
+  <EndDate d="0607-11-10" />
+ </p>
+ <p number="67" century="7" birthplace="Marsican territory">
+  <Name n="Boniface" r="4" />
+  <StartDate d="0608-08-25" />
+  <EndDate d="0615-05-08" />
+ </p>
+ <p number="68" century="7" birthplace="Rome">
+  <Name n="Deusdedit" r="1" only="true" />
+  <Name n="Adeodatus" r="1" />
+  <StartDate d="0615-10-19" event="installation" />
+  <EndDate d="0618-11-08" event="death" />
+ </p>
+ <p number="69" century="7" birthplace="Naples">
+  <Name n="Boniface" r="5" />
+  <StartDate d="0619-12-23" />
+  <EndDate d="0625-10-23" />
+ </p>
+ <p number="70" century="7" birthplace="Campania">
+  <Name n="Honorius" r="1" />
+  <StartDate d="0625-10-27" />
+  <EndDate d="0638-10-12" />
+ </p>
+ <p number="71" century="7" birthplace="Rome">
+  <Name n="Severinus" r="1" only="true" />
+  <StartDate d="0638-10" />
+  <StartDate d="0640-05-28" />
+  <EndDate d="0640-08-02" />
+ </p>
+ <p number="72" century="7" birthplace="Dalmatia">
+  <Name n="John" r="4" />
+  <StartDate d="0640-08" />
+  <StartDate d="0640-12-24" />
+  <EndDate d="0642-10-12" />
+ </p>
+ <p number="73" century="7" birthplace="Jerusalem">
+  <Name n="Theodore" r="1" />
+  <StartDate d="0642-10-12" />
+  <StartDate d="0642-11-24" />
+  <EndDate d="0649-05-14" />
+ </p>
+ <p number="74" century="7" birthplace="Todi">
+  <Name n="Martin" r="1" />
+  <StartDate d="0649-07-05" />
+  <EndDate d="0655-09-16" />
+ </p>
+ <p number="75" century="7" birthplace="Rome">
+  <Name n="Eugene" r="1" />
+  <StartDate d="0654-08-10" />
+  <EndDate d="0657-06-02" />
+ </p>
+ <p number="76" century="7" birthplace="Segni">
+  <Name n="Vitalian" r="1" only="true" />
+  <StartDate d="0657-07-30" />
+  <EndDate d="0672-01-27" />
+ </p>
+ <p number="77" century="7" birthplace="Rome">
+  <Name n="Adeodatus" r="2" />
+  <StartDate d="0672-04-11" />
+  <EndDate d="0676-06-16" />
+ </p>
+ <p number="78" century="7" birthplace="Rome">
+  <Name n="Donus" r="1" only="true" />
+  <StartDate d="0676-11-02" />
+  <EndDate d="0678-04-11" />
+ </p>
+ <p number="79" century="7" birthplace="Sicily">
+  <Name n="Agatho" r="1" only="true" />
+  <StartDate d="0678-06-27" />
+  <EndDate d="0681-01-10" />
+ </p>
+ <p number="80" century="7" birthplace="Sicily">
+  <Name n="Leo" r="2" />
+  <StartDate d="0681-01" />
+  <StartDate d="0682-08-17" />
+  <EndDate d="0683-07-03" />
+ </p>
+ <p number="81" century="7" birthplace="Rome">
+  <Name n="Benedict" r="2" />
+  <StartDate d="0684-06-26" />
+  <EndDate d="0685-05-08" />
+ </p>
+ <p number="82" century="7" birthplace="Syria">
+  <Name n="John" r="5" />
+  <StartDate d="0685-07-23" />
+  <EndDate d="0686-08-02" />
+ </p>
+ <p number="83" century="7" birthplace="Unknown">
+  <Name n="Conon" r="1" only="true" />
+  <StartDate d="0686-10-23" />
+  <EndDate d="0687-09-21" />
+ </p>
+ <p number="84" century="7" birthplace="Syria">
+  <Name n="Sergius" r="1" />
+  <StartDate d="0687-12-15" event="installation" />
+  <EndDate d="0701-09-07" event="death" />
+ </p>
+ <p number="85" century="8" birthplace="Greece">
+  <Name n="John" r="6" />
+  <StartDate d="0701-10-30" />
+  <EndDate d="0705-01-11" />
+ </p>
+ <p number="86" century="8" birthplace="Greece">
+  <Name n="John" r="7" />
+  <StartDate d="0705-03-01" />
+  <EndDate d="0707-10-18" />
+ </p>
+ <p number="87" century="8" birthplace="Syria">
+  <Name n="Sisinnius" r="1" only="true" />
+  <StartDate d="0708-01-15" />
+  <EndDate d="0708-02-04" />
+ </p>
+ <p number="88" century="8" birthplace="Syria">
+  <Name n="Constantine" r="1" only="true" />
+  <StartDate d="0708-03-25" />
+  <EndDate d="0715-04-09" />
+ </p>
+ <p number="89" century="8" birthplace="Rome">
+  <Name n="Gregory" r="2" />
+  <StartDate d="0715-05-19" />
+  <EndDate d="0731-02-11" />
+ </p>
+ <p number="90" century="8" birthplace="Syria">
+  <Name n="Gregory" r="3" />
+  <StartDate d="0731-03-18" />
+  <EndDate d="0741-11-28" />
+ </p>
+ <p number="91" century="8" birthplace="Greece">
+  <Name n="Zachary" r="1" only="true" />
+  <StartDate d="0741-12-03" />
+  <EndDate d="0752-03-15" />
+ </p>
+ <p number="92" century="8" birthplace="Rome">
+  <Name n="Stephen" r="2" />
+  <StartDate d="0752-03-26" />
+  <EndDate d="0757-04-26" />
+ </p>
+ <p number="93" century="8" birthplace="Rome">
+  <Name n="Paul" r="1" />
+  <StartDate d="0757-04" />
+  <StartDate d="0757-05-29" />
+  <EndDate d="0767-06-28" />
+ </p>
+ <p number="94" century="8" birthplace="Sicily">
+  <Name n="Stephen" r="3" />
+  <StartDate d="0768-08-01" />
+  <StartDate d="0768-08-07" />
+  <EndDate d="0772-01-24" />
+ </p>
+ <p number="95" century="8" birthplace="Rome">
+  <Name n="Adrian" r="1" />
+  <StartDate d="0772-02-01" />
+  <StartDate d="0772-02-09" />
+  <EndDate d="0795-12-25" />
+ </p>
+ <p number="96" century="8" birthplace="Rome">
+  <Name n="Leo" r="3" />
+  <StartDate d1="0795-12-26" d2="0795-12-27" event="installation" />
+  <EndDate d="0816-06-12" event="death" />
+ </p>
+ <p number="97" century="9" birthplace="Rome">
+  <Name n="Stephen" r="4" />
+  <StartDate d="0816-06-22" />
+  <EndDate d="0817-01-24" />
+ </p>
+ <p number="98" century="9" birthplace="Rome">
+  <Name n="Paschal" r="1" />
+  <StartDate d="0817-01-25" />
+  <EndDate d1="0824-02" d2="0824-05" />
+ </p>
+ <p number="99" century="9" birthplace="Rome">
+  <Name n="Eugene" r="2" />
+  <StartDate d1="0824-02" d2="0824-05" />
+  <EndDate d="0827-08" />
+ </p>
+ <p number="100" century="9" birthplace="Rome">
+  <Name n="Valentine" r="1" only="true" />
+  <StartDate d="0827-08" />
+  <EndDate d="0827-09" />
+ </p>
+ <p number="101" century="9" birthplace="Rome">
+  <Name n="Gregory" r="4" />
+  <StartDate d="0827-09" />
+  <StartDate d="0828-03-29" />
+  <EndDate d="0844-01-25" />
+ </p>
+ <p number="102" century="9" birthplace="Rome">
+  <Name n="Sergius" r="2" />
+  <StartDate d="0844-01-25" />
+  <EndDate d="0847-01-27" />
+ </p>
+ <p number="103" century="9" birthplace="Rome">
+  <Name n="Leo" r="4" />
+  <StartDate d="0847-01" />
+  <StartDate d="0847-05-10" />
+  <EndDate d="0855-07-17" />
+ </p>
+ <p number="104" century="9" birthplace="Rome">
+  <Name n="Benedict" r="3" />
+  <StartDate d="0855-07" />
+  <StartDate d="0855-09-29" />
+  <EndDate d="0858-04-17" />
+ </p>
+ <p number="105" century="9" birthplace="Rome">
+  <Name n="Nicholas" r="1" />
+  <StartDate d="0858-04-24" event="installation" />
+  <EndDate d="0867-11-13" event="death" />
+ </p>
+ <p number="106" century="9" birthplace="Rome">
+  <Name n="Adrian" r="2" />
+  <StartDate d="0867-12-14" event="installation" />
+  <EndDate d1="0872-11" d2="0872-12" event="death" />
+ </p>
+ <p number="107" century="9" birthplace="Rome">
+  <Name n="John" r="8" />
+  <StartDate d="0872-12-14" />
+  <EndDate d="0882-12-16" />
+ </p>
+ <p number="108" century="9" birthplace="Gallese">
+  <Name n="Marinus" r="1" />
+  <StartDate d="0882-12" />
+  <EndDate d="0884-05-15" />
+ </p>
+ <p number="109" century="9" birthplace="Rome">
+  <Name n="Adrian" r="3" />
+  <StartDate d="0884-05-17" event="installation" />
+  <EndDate d1="0885-08" d2="0885-09" event="death" />
+ </p>
+ <p number="110" century="9" birthplace="Rome">
+  <Name n="Stephen" r="5" />
+  <StartDate d="0885-09" />
+  <EndDate d="0891-09-14" />
+ </p>
+ <p number="111" century="9" birthplace="Bishop of Portus">
+  <Name n="Formosus" r="1" only="true" />
+  <StartDate d="0891-10-06" />
+  <EndDate d="0896-04-04" />
+ </p>
+ <p number="112" century="9" birthplace="Rome">
+  <Name n="Boniface" r="6" />
+  <StartDate d="0896-04-11" />
+  <EndDate d="0896-04-26" />
+ </p>
+ <p number="113" century="9" birthplace="Rome">
+  <Name n="Stephen" r="6" />
+  <StartDate d1="0896-05" d2="0896-06" event="installation" />
+  <EndDate d1="0897-07" d2="0897-08" event="deposed" />
+ </p>
+ <p number="114" century="9" birthplace="Gallese">
+  <Name n="Romanus" r="1" only="true" />
+  <StartDate d1="0897-07" d2="0897-08" event="installation" />
+  <EndDate d="0897-11" event="deposed" />
+ </p>
+ <p number="115" century="9" birthplace="Rome">
+  <Name n="Theodore" r="2" />
+  <StartDate d="0897-12" event="installation" />
+  <EndDate d1="0897-12" d2="0898-01" event="death" />
+ </p>
+ <p number="116" century="9" birthplace="Tivoli">
+  <Name n="John" r="9" />
+  <StartDate d1="0897-12" d2="0898-01" event="installation" />
+  <EndDate d1="0900-01" d2="0900-05" event="death" />
+ </p>
+ <p number="117" century="10" birthplace="Rome">
+  <Name n="Benedict" r="4" />
+  <StartDate d1="0900-01" d2="0900-05" />
+  <EndDate d="0903-07" />
+ </p>
+ <p number="118" century="10" birthplace="Ardea">
+  <Name n="Leo" r="5" />
+  <StartDate d="0903-07" />
+  <EndDate d="0903-09" />
+ </p>
+ <p number="119" century="10" birthplace="Rome">
+  <Name n="Sergius" r="3" />
+  <StartDate d="0904-01-29" />
+  <EndDate d="0911-04-14" />
+ </p>
+ <p number="120" century="10" birthplace="Rome">
+  <Name n="Anastasius" r="3" />
+  <StartDate d1="0911-06" d2="0911-09" event="installation" />
+  <EndDate d1="0913-06" d2="0913-08" d3="0913-10" event="death" />
+ </p>
+ <p number="121" century="10" birthplace="Sabina">
+  <Name n="Lando" r="1" only="true" />
+  <StartDate d1="0913-07" d2="0913-11" event="installation" />
+  <EndDate d="0914-03" event="death" />
+ </p>
+ <p number="122" century="10" birthplace="Tossignano (Imola)">
+  <Name n="John" r="10" />
+  <StartDate d1="0914-03" d2="0914-04" event="appointment" />
+  <EndDate d1="0928-05" d2="0928-06" event="deposed" />
+ </p>
+ <p number="123" century="10" birthplace="Rome">
+  <Name n="Leo" r="6" />
+  <StartDate d1="0928-05" d2="0928-06" event="appointment" />
+  <EndDate d1="0928-12" d2="0929-01" event="deposed" />
+ </p>
+ <p number="124" century="10" birthplace="Rome">
+  <Name n="Stephen" r="7" />
+  <StartDate d="0929-01" />
+  <EndDate d="0931-02" />
+ </p>
+ <p number="125" century="10" birthplace="Rome">
+  <Name n="John" r="11" />
+  <StartDate d="0931-03" />
+  <EndDate d="0936-01" />
+ </p>
+ <p number="126" century="10" birthplace="Rome">
+  <Name n="Leo" r="7" />
+  <StartDate d="0936-01" />
+  <EndDate d="0939-07-13" />
+ </p>
+ <p number="127" century="10" birthplace="Rome">
+  <Name n="Stephen" r="8" />
+  <StartDate d="0939-07-14" />
+  <EndDate d="0942-10" />
+ </p>
+ <p number="128" century="10" birthplace="Rome">
+  <Name n="Marinus" r="2" />
+  <StartDate d1="0942-10-30" d2="0942-11" event="installation" />
+  <EndDate d="0946-05" event="death" />
+ </p>
+ <p number="129" century="10" birthplace="Rome">
+  <Name n="Agapetus" r="2" />
+  <StartDate d="0946-05-10" />
+  <EndDate d="0955-12" />
+ </p>
+ <p number="130" century="10" secularname="Ottaviano" birthplace="Counts of Tusculum">
+  <Name n="John" r="12" />
+  <StartDate d="0955-12-16" />
+  <EndDate d="0964-05-14" />
+ </p>
+ <p number="131" century="10" birthplace="Rome">
+  <Name n="Leo" r="8" />
+  <StartDate d="0963-12-04" event="appointment" />
+  <StartDate d="0963-12-06" event="enthroned" />
+  <EndDate d="0965-03" event="death" />
+ </p>
+ <p number="132" century="10" birthplace="Rome">
+  <Name n="Benedict" r="5" />
+  <StartDate d="0964-05" event="election-disputed" />
+  <EndDate d1="0964-07-04" d2="0965-07-04" event="deposed" />
+ </p>
+ <p number="133" century="10" birthplace="Rome">
+  <Name n="John" r="13" />
+  <StartDate d="0965-10-01" />
+  <EndDate d="0972-09-06" />
+ </p>
+ <p number="134" century="10" birthplace="Rome">
+  <Name n="Benedict" r="6" />
+  <StartDate d="0972-12" event="installation" />
+  <StartDate d="0973-01-19" event="enthroned" />
+  <EndDate d="0974-07" event="deposed" />
+ </p>
+ <p number="135" century="10" birthplace="Rome">
+  <Name n="Benedict" r="7" />
+  <StartDate d="0974-10" />
+  <EndDate d="0983-07-10" />
+ </p>
+ <p number="136" century="10" secularname="Pietro" birthplace="Pavia">
+  <Name n="John" r="14" />
+  <StartDate d1="0983-11" d2="0983-12" event="installation" />
+  <EndDate d="0984-08-20" event="murdered" />
+ </p>
+ <p number="137" century="10" birthplace="Rome">
+  <Name n="John" r="15" />
+  <StartDate d="0985-08" />
+  <EndDate d="0996-03" />
+ </p>
+ <p number="138" century="10" secularname="Bruno of Carinthia" birthplace="Saxony">
+  <Name n="Gregory" r="5" />
+  <StartDate d="0996-05-03" event="installation" />
+  <EndDate d1="0999-02" d2="0999-03" event="death" />
+ </p>
+ <p number="139" century="10" secularname="Gerbert" birthplace="Aquitaine">
+  <Name n="Sylvester" r="2" />
+  <StartDate d="0999-04-02" />
+  <EndDate d="1003-05-12" />
+ </p>
+ <p number="140" century="11" secularname="Siccone" birthplace="Rome">
+  <Name n="John" r="17" />
+  <StartDate d="1003-05-16" />
+  <EndDate d="1003-11-06" />
+ </p>
+ <p number="141" century="11" secularname="Fasano" birthplace="Rome">
+  <Name n="John" r="18" />
+  <StartDate d="1003-12-25" event="installation" />
+  <EndDate d1="1009-06" d2="1009-07" event="resigned" />
+ </p>
+ <p number="142" century="11" secularname="Pietro" birthplace="Rome">
+  <Name n="Sergius" r="4" />
+  <StartDate d="1009-07-31" />
+  <EndDate d="1012-05-12" />
+ </p>
+ <p number="143" century="11" secularname="Teofilatto dei conti di Tuscolo">
+  <Name n="Benedict" r="8" />
+  <StartDate d="1012-05-18" />
+  <EndDate d="1024-04-09" />
+ </p>
+ <p number="144" century="11" secularname="Romano dei conti di Tuscolo">
+  <Name n="John" r="19" />
+  <StartDate d="1024-04-19" event="installation" />
+  <EndDate d="1032" event="death" />
+ </p>
+ <p number="145" century="11" secularname="Theophylactus of Tusculum" reign="1">
+  <Name n="Benedict" r="9" />
+  <StartDate d1="1032-08" d2="1032-09" event="installation" />
+  <EndDate d="1044-09" event="deposed" />
+ </p>
+ <p number="146" century="11" secularname="Giovanni" birthplace="Rome">
+  <Name n="Sylvester" r="3" />
+  <StartDate d1="1045-01-13" d2="1045-01-20" event="election-disputed" />
+  <EndDate d="1045-03" event="deposed" />
+ </p>
+ <p number="147" century="11" secularname="Theophylactus of Tusculum" reign="2">
+  <Name n="Benedict" r="9" />
+  <StartDate d="1045-03-10" event="restoration" />
+  <EndDate d="1045-05-01" event="resigned" />
+ </p>
+ <p number="148" century="11" secularname="Giovanni Graziano" birthplace="Rome">
+  <Name n="Gregory" r="6" />
+  <StartDate d="1045-05-01" event="appointment" />
+  <EndDate d="1046-12-20" event="resigned" />
+ </p>
+ <p number="149" century="11" secularname="Suidger, Graf von Morsleben und Hornburg" birthplace="Saxony">
+  <Name n="Clement" r="2" />
+  <StartDate d="1046-12-24" event="appointment" />
+  <EndDate d="1047-10-09" event="death" />
+ </p>
+ <p number="150" century="11" secularname="Theophylactus of Tusculum" reign="3">
+  <Name n="Benedict" r="9" />
+  <StartDate d="1047-10" event="restoration" />
+  <EndDate d="1048-08" event="deposed" />
+ </p>
+ <p number="151" century="11" secularname="Poppo" birthplace="Tyrol">
+  <Name n="Damasus" r="2" />
+  <StartDate d="1048-07-17" event="installation" />
+  <EndDate d="1048-08-09" event="death" />
+ </p>
+ <p number="152" century="11" secularname="Bruno of Eguisheim-Dagsburg" birthplace="Alsace">
+  <Name n="Leo" r="9" />
+  <StartDate d="1049-02-02" event="installation" />
+  <StartDate d="1049-02-12" event="enthroned" />
+  <EndDate d="1054-04-19" event="death" />
+ </p>
+ <p number="153" century="11" secularname="Gebhard Of Dollnstein-hirschberg" birthplace="Swabia">
+  <Name n="Victor" r="2" />
+  <StartDate d="1055-04-13" />
+  <EndDate d="1057-07-28" />
+ </p>
+ <p number="154" century="11" secularname="Frédéric de Lorraine">
+  <Name n="Stephen" r="9" />
+  <StartDate d="1057-08-02" event="installation" />
+  <StartDate d="1057-08-03" event="enthroned" />
+  <EndDate d="1058-03-29" event="death" />
+ </p>
+ <p number="155" century="11" secularname="Gérard" birthplace="Bourgogne">
+  <Name n="Nicholas" r="2" />
+  <StartDate d="1058-12" event="installation" />
+  <StartDate d="1059-01-24" event="enthroned" />
+  <EndDate d="1061-07-27" event="death" />
+ </p>
+ <p number="156" century="11" secularname="Anselmo" birthplace="Baggio (Milano)">
+  <Name n="Alexander" r="2" />
+  <StartDate d="1061-09-30" event="election" />
+  <StartDate d="1061-10-01" event="enthroned" />
+  <EndDate d="1073-04-21" event="death" />
+ </p>
+ <p number="157" century="11" secularname="Ildebrando" birthplace="Tuscia">
+  <Name n="Gregory" r="7" />
+  <StartDate d="1073-04-22" event="election" />
+  <StartDate d="1073-06-30" event="enthroned" />
+  <EndDate d="1085-05-25" event="deposed" />
+ </p>
+ <p number="158" century="11" secularname="Dauferio (Desiderio)" birthplace="Benevento">
+  <Name n="Victor" r="3" />
+  <StartDate d="1086-05-24" event="election" />
+  <StartDate d="1087-05-09" event="enthroned" />
+  <EndDate d="1087-09-16" event="deposed" />
+ </p>
+ <p number="159" century="11" secularname="Odo of Lagery" birthplace="Châtillon-sur-Marne">
+  <Name n="Urban" r="2" />
+  <StartDate d="1088-03-12" event="election" />
+  <EndDate d="1099-07-29" event="death" />
+ </p>
+ <p number="160" century="11" secularname="Raniero" birthplace="Bleda or Galeata">
+  <Name n="Paschal" r="2" />
+  <StartDate d="1099-08-13" event="election" />
+  <StartDate d="1099-08-14" event="enthroned" />
+  <EndDate d="1118-01-21" event="death" />
+ </p>
+ <p number="161" century="12" secularname="Giovanni Caetani" birthplace="Gaeta">
+  <Name n="Gelasius" r="2" />
+  <StartDate d="1118-01-24" event="election" />
+  <StartDate d="1118-03-10" event="enthroned" />
+  <EndDate d="1119-01-28" event="death" />
+ </p>
+ <p number="162" century="12" secularname="Guy of Burgundy">
+  <Name n="Callixtus" r="2" />
+  <StartDate d="1119-02-02" event="election" />
+  <StartDate d="1119-02-09" event="coronation" />
+  <EndDate d1="1124-12-13" d2="1124-12-14" event="death" />
+ </p>
+
+ <p number="163" century="12" secularname="Lamberto Scannabecchi" birthplace="Fiagnano (Imola)">
+  <Name n="Honorius" r="2" />
+  <StartDate d="1124-12-15" event="election" />
+  <StartDate d="1124-12-21" event="coronation" />
+  <EndDate d1="1130-02-13" d2="1130-02-14" event="death" />
+ </p>
+ <p number="164" century="12" secularname="Gregorio Papareschi" birthplace="Rome">
+  <Name n="Innocent" r="2" />
+  <StartDate d="1130-02-14" />
+  <StartDate d="1130-02-23" />
+  <EndDate d="1143-09-24" />
+ </p>
+ <p number="165" century="12" secularname="Guido" birthplace="Città di Castello">
+  <Name n="Celestine" r="2" />
+  <StartDate d="1143-09-26" />
+  <StartDate d="1143-10-03" />
+  <EndDate d="1144-03-08" />
+ </p>
+ <p number="166" century="12" secularname="Gerardo" birthplace="Bologna">
+  <Name n="Lucius" r="2" />
+  <StartDate d="1144-03-12" />
+  <EndDate d="1145-02-15" event="martyred" />
+ </p>
+ <p number="167" century="12" secularname="Bernardo" birthplace="Pisa">
+  <Name n="Eugene" r="3" />
+  <StartDate d="1145-02-15" />
+  <StartDate d="1145-02-18" />
+  <EndDate d="1153-07-08" />
+ </p>
+ <p number="168" century="12" secularname="Corrado" birthplace="Rome">
+  <Name n="Anastasius" r="4" />
+  <StartDate d="1153-07-12" />
+  <EndDate d="1154-12-03" />
+ </p>
+ <p number="169" century="12" secularname="Nicholas Breakspear" birthplace="Abbot's Lagnley (Hertfordshire)">
+  <Name n="Adrian" r="4" />
+  <StartDate d="1154-12-04" />
+  <StartDate d="1154-12-05" />
+  <EndDate d="1159-09-01" />
+ </p>
+ <p number="170" century="12" secularname="Rolando Bandinelli" birthplace="Siena">
+  <Name n="Alexander" r="3" />
+  <StartDate d="1159-09-07" />
+  <StartDate d="1159-09-20" />
+  <EndDate d="1181-08-30" />
+ </p>
+ <p number="171" century="12" secularname="Ubaldo Allucingoli" birthplace="Lucca">
+  <Name n="Lucius" r="3" />
+  <StartDate d="1181-09-01" event="election" />
+  <StartDate d="1181-09-06" event="enthroned" />
+  <EndDate d="1185-09-25" event="death" />
+ </p>
+ <p number="172" century="12" secularname="Umberto Crivelli" birthplace="Milan">
+  <Name n="Urban" r="3" />
+  <StartDate d="1185-11-25" event="election" />
+  <StartDate d="1185-12-01" event="enthroned" />
+  <EndDate d="1187-10-20" event="death" />
+ </p>
+ <p number="173" century="12" secularname="Alberto di Morra" birthplace="Benevento">
+  <Name n="Gregory" r="8" />
+  <StartDate d="1187-10-21" event="election" />
+  <StartDate d="1187-10-25" event="enthroned" />
+  <EndDate d="1187-12-17" event="death" />
+ </p>
+ <p number="174" century="12" secularname="Paolo Scolari" birthplace="Rome">
+  <Name n="Clement" r="3" />
+  <StartDate d="1187-12-19" />
+  <StartDate d="1187-12-20" />
+  <EndDate d="1191-03" />
+ </p>
+ <p number="175" century="12" secularname="Giacinto Bobone" birthplace="Rome">
+  <Name n="Celestine" r="3" />
+  <StartDate d="1191-04-10" />
+  <StartDate d="1191-04-14" />
+  <EndDate d="1198-01-08" />
+ </p>
+ <p number="176" century="12" secularname="Lotario dei conti di Segni" birthplace="Gavignano (Rome)">
+  <Name n="Innocent" r="3" />
+  <StartDate d="1198-01-08" event="election" />
+  <StartDate d="1198-02-22" event="coronation" />
+  <EndDate d="1216-07-16" event="death" />
+ </p>
+ <p number="177" century="13" secularname="Cencio" birthplace="Rome">
+  <Name n="Honorius" r="3" />
+  <StartDate d="1216-07-18" />
+  <StartDate d="1216-07-24" />
+  <EndDate d="1227-03-18" />
+ </p>
+ <p number="178" century="13" secularname="Ugolino di Segni" birthplace="Anagni">
+  <Name n="Gregory" r="9" />
+  <StartDate d="1227-03-19" />
+  <StartDate d="1227-03-21" />
+  <EndDate d="1241-08-22" />
+ </p>
+ <p number="179" century="13" secularname="Goffredo da Castiglione" birthplace="Milan">
+  <Name n="Celestine" r="4" />
+  <StartDate d="1241-10-25" />
+  <StartDate d="1241-10-28" />
+  <EndDate d="1241-11-10" />
+ </p>
+ <p number="180" century="13" secularname="Sinibaldo Fieschi" birthplace="Lavagna (Genoa)">
+  <Name n="Innocent" r="4" />
+  <StartDate d="1243-06-25" />
+  <StartDate d="1243-06-28" />
+  <EndDate d="1254-12-07" />
+ </p>
+ <p number="181" century="13" secularname="Rinaldo di Jenne" birthplace="Jenne (Rome)">
+  <Name n="Alexander" r="4" />
+  <StartDate d="1254-12-12" />
+  <StartDate d="1254-12-20" />
+  <EndDate d="1261-05-25" />
+ </p>
+ <p number="182" century="13" secularname="Jacques Pantaléon" birthplace="Troyes">
+  <Name n="Urban" r="4" />
+  <StartDate d="1261-08-29" />
+  <StartDate d="1261-09-04" />
+  <EndDate d="1264-10-02" />
+ </p>
+ <p number="183" century="13" secularname="Gui Foulques" birthplace="Saint-Gilles (Southern French)">
+  <Name n="Clement" r="4" />
+  <StartDate d="1265-02-05" />
+  <StartDate d="1265-02-22" />
+  <EndDate d="1268-11-29" />
+ </p>
+ <p number="184" century="13" secularname="Tebaldo Visconti" birthplace="Piacenza">
+  <Name n="Gregory" r="10" />
+  <StartDate d="1271-09-01" />
+  <StartDate d="1272-03-27" />
+  <EndDate d="1276-01-10" />
+ </p>
+ <p number="185" century="13" secularname="Pierre De Tarentaise" birthplace="Savoy">
+  <Name n="Innocent" r="5" />
+  <StartDate d="1276-01-21" />
+  <StartDate d="1276-02-22" />
+  <EndDate d="1276-06-22" />
+ </p>
+ <p number="186" century="13" secularname="Ottobono Fieschi" birthplace="Genoa">
+  <Name n="Adrian" r="5" />
+  <StartDate d="1276-07-11" />
+  <EndDate d="1276-08-18" />
+ </p>
+ <p number="187" century="13" secularname="Pedro Julião or Pedro Hispano" birthplace="Lisbon">
+  <Name n="John" r="21" />
+  <StartDate d="1276-09-16" />
+  <StartDate d="1276-09-20" />
+  <EndDate d="1277-05-20" />
+ </p>
+ <p number="188" century="13" secularname="Giovanni Gaetano Orsini" birthplace="Rome">
+  <Name n="Nicholas" r="3" />
+  <StartDate d="1277-11-25" />
+  <StartDate d="1277-12-26" />
+  <EndDate d="1280-08-22" />
+ </p>
+ <p number="189" century="13" secularname="Simon de Brie or of Brion or of Mainpincien" birthplace="France">
+  <Name n="Martin" r="4" />
+  <StartDate d="1281-02-22" />
+  <StartDate d="1281-03-23" />
+  <EndDate d="1285-03-29" />
+ </p>
+ <p number="190" century="13" secularname="Giacomo Savelli" birthplace="Rome">
+  <Name n="Honorius" r="4" />
+  <StartDate d="1285-04-02" />
+  <StartDate d="1285-05-20" />
+  <EndDate d="1287-04-03" />
+ </p>
+ <p number="191" century="13" secularname="Girolamo" birthplace="Lisciano (Ascoli PIceno)">
+  <Name n="Nicholas" r="4" />
+  <StartDate d="1288-02-22" />
+  <EndDate d="1292-04-04" />
+ </p>
+ <p number="192" century="13" secularname="Pietro del Morrone" birthplace="Molise">
+  <Name n="Celestine" r="5" />
+  <StartDate d="1294-07-05" event="election" />
+  <StartDate d="1294-08-29" event="coronation" />
+  <EndDate d="1294-12-13" event="resigned" />
+ </p>
+ <p number="193" century="13" secularname="Benedetto Caetani" birthplace="Anagni">
+  <Name n="Boniface" r="8" />
+  <StartDate d="1294-12-24" event="election" />
+  <StartDate d="1295-01-23" event="coronation" />
+  <EndDate d="1303-10-11" event="death" />
+ </p>
+ <p number="194" century="14" secularname="Niccolò di Boccasio" birthplace="Treviso">
+  <Name n="Benedict" r="11" />
+  <StartDate d="1303-10-22" />
+  <StartDate d="1303-10-27" />
+  <EndDate d="1304-07-07" />
+ </p>
+ <p number="195" century="14" secularname="Bertrand de Got" birthplace="Villandraut (Gironde)">
+  <Name n="Clement" r="5" />
+  <StartDate d="1305-06-05" />
+  <StartDate d="1305-11-14" />
+  <EndDate d="1314-04-20" />
+ </p>
+ <p number="196" century="14" secularname="Jacques Duèse" birthplace="Cahors">
+  <Name n="John" r="22" />
+  <StartDate d="1316-08-07" />
+  <StartDate d="1316-09-05" />
+  <EndDate d="1334-12-04" />
+ </p>
+ <p number="197" century="14" secularname="Jacques Fournier" birthplace="Saverdun (Southern France)">
+  <Name n="Benedict" r="12" />
+  <StartDate d="1334-12-20" />
+  <StartDate d="1335-01-08" />
+  <EndDate d="1342-04-25" />
+ </p>
+ <p number="198" century="14" secularname="Pierre Roger" birthplace="Maumont (Limousin)">
+  <Name n="Clement" r="6" />
+  <StartDate d="1342-05-07" />
+  <StartDate d="1342-05-19" />
+  <EndDate d="1352-12-06" />
+ </p>
+ <p number="199" century="14" secularname="Étienne Aubert" birthplace="Monts (Limousin)">
+  <Name n="Innocent" r="6" />
+  <StartDate d="1352-12-18" />
+  <StartDate d="1352-12-30" />
+  <EndDate d="1362-09-12" />
+ </p>
+ <p number="200" century="14" secularname="Guillaume Grimoard" birthplace="Grizac (Southern France)">
+  <Name n="Urban" r="5" />
+  <StartDate d="1362-09-28" event="election" />
+  <StartDate d="1362-11-06" event="coronation" />
+  <EndDate d="1370-12-19" event="death" />
+ </p>
+ <p number="201" century="14" secularname="Pierre Roger de Beaufort" birthplace="Rosiers d'Egletons (Limousin)">
+  <Name n="Gregory" r="11" />
+  <StartDate d="1370-12-30" event="election" />
+  <StartDate d="1371-01-03" event="coronation" />
+  <EndDate d="1378-03-26" event="death" />
+ </p>
+ <p number="202" century="14" secularname="Bartolomeo Prignano" birthplace="Naples">
+  <Name n="Urban" r="6" />
+  <StartDate d="1378-04-08" event="election" />
+  <StartDate d="1378-04-18" event="coronation" />
+  <EndDate d="1389-10-15" event="death" />
+ </p>
+ <p number="203" century="14" secularname="Pietro Tomacelli" birthplace="Naples">
+  <Name n="Boniface" r="9" />
+  <StartDate d="1389-11-02" />
+  <StartDate d="1389-11-09" />
+  <EndDate d="1404-10-01" />
+ </p>
+ <p number="204" century="15" secularname="Cosma Migliorati" birthplace="Sulmona">
+  <Name n="Innocent" r="7" />
+  <StartDate d="1404-10-17" />
+  <StartDate d="1404-11-11" />
+  <EndDate d="1406-11-06" />
+ </p>
+ <p number="205" century="15" secularname="Angelo Correr" birthplace="Venice">
+  <Name n="Gregory" r="12" />
+  <StartDate d="1406-11-30" event="election" />
+  <StartDate d="1406-12-19" event="coronation" />
+  <EndDate d="1415-07-04" event="resigned" />
+ </p>
+ <p number="206" century="15" secularname="Oddone Colonna" birthplace="Genazzano">
+  <Name n="Martin" r="5" />
+  <StartDate d="1417-11-11" />
+  <StartDate d="1417-11-21" />
+  <EndDate d="1431-02-20" />
+ </p>
+ <p number="207" century="15" secularname="Gabriele Condulmer" birthplace="Venice">
+  <Name n="Eugene" r="4" />
+  <StartDate d="1431-03-03" />
+  <StartDate d="1431-03-11" />
+  <EndDate d="1447-02-23" />
+ </p>
+ <p number="208" century="15" secularname="Tommaso Parentucelli" birthplace="Sarzana">
+  <Name n="Nicholas" r="5" />
+  <StartDate d="1447-03-06" />
+  <StartDate d="1447-03-19" />
+  <EndDate d="1455-03-24" />
+ </p>
+ <p number="209" century="15" secularname="Alonso Borja" birthplace="Torre de Canals, Játiva (Valencia)">
+  <Name n="Callixtus" r="3" />
+  <StartDate d="1455-04-08" event="election" />
+  <StartDate d="1455-04-20" event="coronation" />
+  <EndDate d="1458-08-06" event="death" />
+ </p>
+ <p number="210" century="15" secularname="Enea Silvio Piccolomini" birthplace="Corsignano (Siena)">
+  <Name n="Pius" r="2" />
+  <StartDate d="1458-08-19" />
+  <StartDate d="1458-09-03" />
+  <EndDate d="1464-08-14" />
+ </p>
+ <p number="211" century="15" secularname="Pietro Barbo" birthplace="Venice">
+  <Name n="Paul" r="2" />
+  <StartDate d="1464-08-30" />
+  <StartDate d="1464-09-16" />
+  <EndDate d="1471-07-26" />
+ </p>
+ <p number="212" century="15" secularname="Francesco della Rovere" birthplace="Celle (Savona)">
+  <Name n="Sixtus" r="4" />
+  <StartDate d="1471-08-01" event="election" />
+  <StartDate d="1471-08-09" event="installation" />
+  <StartDate d="1471-08-25" event="coronation" />
+  <EndDate d="1484-08-12" event="death" />
+ </p>
+ <p number="213" century="15" secularname="Giovanni Battista Cibo" birthplace="Genoa">
+  <Name n="Innocent" r="8" />
+  <StartDate d="1484-08-29" />
+  <StartDate d="1484-09-12" />
+  <EndDate d="1492-07-25" />
+ </p>
+ <p number="214" century="15" secularname="Rodrigo de Borja" birthplace="Játiva (Valencia)">
+  <Name n="Alexander" r="6" />
+  <StartDate d="1492-08-11" />
+  <StartDate d="1492-08-26" />
+  <EndDate d="1503-08-18" />
+ </p>
+ <p number="215" century="16" secularname="Francesco Todeschini-Piccolomini" birthplace="Siena">
+  <Name n="Pius" r="3" />
+  <StartDate d="1503-09-22" event="election" />
+  <StartDate d="1503-10-01" event="installation" />
+  <StartDate d="1503-10-08" event="consecration" />
+  <EndDate d="1503-10-18" event="death" />
+ </p>
+ <p number="216" century="16" secularname="Giuliano della Rovere" birthplace="Albisola (Savona)">
+  <Name n="Julius" r="2" />
+  <StartDate d="1503-11-01" event="election" />
+  <StartDate d="1503-11-26" event="coronation" />
+  <EndDate d="1513-02-21" event="death" />
+ </p>
+ <p number="217" century="16" secularname="Giovanni de' Medici" birthplace="Florence">
+  <Name n="Leo" r="10" />
+  <StartDate d="1513-03-11" event="election" />
+  <StartDate d="1513-03-19" event="coronation" />
+  <EndDate d="1521-12-01" event="death" />
+ </p>
+ <p number="218" century="16" secularname="Adriaan Florensz" birthplace="Utrecht">
+  <Name n="Adrian" r="6" />
+  <StartDate d="1522-01-09" />
+  <StartDate d="1522-08-31" />
+  <EndDate d="1523-09-14" />
+ </p>
+ <p number="219" century="16" secularname="Giulio de' Medici" birthplace="Florence">
+  <Name n="Clement" r="7" />
+  <StartDate d="1523-11-19" />
+  <StartDate d="1523-11-26" />
+  <EndDate d="1534-09-25" />
+ </p>
+ <p number="220" century="16" secularname="Alessandro Farnese" birthplace="Canino (Viterbo)">
+  <Name n="Paul" r="3" />
+  <StartDate d="1534-10-13" />
+  <StartDate d="1534-11-03" />
+  <EndDate d="1549-11-10" />
+ </p>
+ <p number="221" century="16" secularname="Giovanni Maria Ciocchi del Monte" birthplace="Rome">
+  <Name n="Julius" r="3" />
+  <StartDate d="1550-02-07" />
+  <StartDate d="1550-02-22" />
+  <EndDate d="1555-03-23" />
+ </p>
+ <p number="222" century="16" secularname="Marcello Cervini" birthplace="Montefano">
+  <Name n="Marcellus" r="2" />
+  <StartDate d="1555-04-09" />
+  <StartDate d="1555-04-10" />
+  <EndDate d="1555-05-01" />
+ </p>
+ <p number="223" century="16" secularname="Gian Pietro Carafa" birthplace="Capriglia (Avellino)">
+  <Name n="Paul" r="4" />
+  <StartDate d="1555-05-23" />
+  <StartDate d="1555-05-26" />
+  <EndDate d="1559-08-18" />
+ </p>
+ <p number="224" century="16" secularname="Giovan Angelo Medici" birthplace="Milan">
+  <Name n="Pius" r="4" />
+  <StartDate d="1559-12-26" />
+  <StartDate d="1560-01-06" />
+  <EndDate d="1565-12-09" />
+ </p>
+ <p number="225" century="16" secularname="Antonio (Michele) Ghisleri" birthplace="Bosco (Alessandria)">
+  <Name n="Pius" r="5" />
+  <StartDate d="1566-01-07" />
+  <StartDate d="1566-01-17" />
+  <EndDate d="1572-05-01" />
+ </p>
+ <p number="226" century="16" secularname="Ugo Boncompagni" birthplace="Bologna">
+  <Name n="Gregory" r="13" />
+  <StartDate d="1572-05-13" event="election" />
+  <StartDate d="1572-05-25" event="coronation" />
+  <EndDate d="1585-04-10" event="death" />
+ </p>
+ <p number="227" century="16" secularname="Felice Peretti" birthplace="Grottammare (Ascoli Piceno)">
+  <Name n="Sixtus" r="5" />
+  <StartDate d="1585-04-24" />
+  <StartDate d="1585-05-01" />
+  <EndDate d="1590-08-27" />
+ </p>
+ <p number="228" century="16" secularname="Giambattista Castagna" birthplace="Rome">
+  <Name n="Urban" r="7" />
+  <StartDate d="1590-09-15" />
+  <EndDate d="1590-09-27" />
+ </p>
+ <p number="229" century="16" secularname="Niccolò Sfondrati" birthplace="Somma Lombarda">
+  <Name n="Gregory" r="14" />
+  <StartDate d="1590-12-05" />
+  <StartDate d="1590-12-08" />
+  <EndDate d="1591-10-16" />
+ </p>
+ <p number="230" century="16" secularname="Giovan Antonio Facchinetti" birthplace="Bologna">
+  <Name n="Innocent" r="9" />
+  <StartDate d="1591-10-29" />
+  <StartDate d="1591-11-03" />
+  <EndDate d="1591-12-30" />
+ </p>
+ <p number="231" century="16" secularname="Ippolito Aldobrandini" birthplace="Fano">
+  <Name n="Clement" r="8" />
+  <StartDate d="1592-01-30" />
+  <StartDate d="1592-02-09" />
+  <EndDate d="1605-03-03" />
+ </p>
+ <p number="232" century="17" secularname="Alessandro de' Medici" birthplace="Florence">
+  <Name n="Leo" r="11" />
+  <StartDate d="1605-04-01" />
+  <StartDate d="1605-04-10" />
+  <EndDate d="1605-04-27" />
+ </p>
+ <p number="233" century="17" secularname="Camillo Borghese" birthplace="Rome">
+  <Name n="Paul" r="5" />
+  <StartDate d="1605-05-16" />
+  <StartDate d="1605-05-29" />
+  <EndDate d="1621-01-28" />
+ </p>
+ <p number="234" century="17" secularname="Alessandro Ludovisi" birthplace="Bologna">
+  <Name n="Gregory" r="15" />
+  <StartDate d="1621-02-09" />
+  <StartDate d="1621-02-14" />
+  <EndDate d="1623-07-08" />
+ </p>
+ <p number="235" century="17" secularname="Maffeo Barberini" birthplace="Florence">
+  <Name n="Urban" r="8" />
+  <StartDate d="1623-08-06" />
+  <StartDate d="1623-09-29" />
+  <EndDate d="1644-07-29" />
+ </p>
+ <p number="236" century="17" secularname="Giovanni Battista Pamphilj" birthplace="Rome">
+  <Name n="Innocent" r="10" />
+  <StartDate d="1644-09-15" />
+  <StartDate d="1644-10-04" />
+  <EndDate d="1655-01-07" />
+ </p>
+ <p number="237" century="17" secularname="Fabio Chigi" birthplace="Siena">
+  <Name n="Alexander" r="7" />
+  <StartDate d="1655-04-07" />
+  <StartDate d="1655-04-18" />
+  <EndDate d="1667-05-22" />
+ </p>
+ <p number="238" century="17" secularname="Giulio Rospigliosi" birthplace="Pistoia">
+  <Name n="Clement" r="9" />
+  <StartDate d="1667-06-20" />
+  <StartDate d="1667-06-26" />
+  <EndDate d="1669-12-09" />
+ </p>
+ <p number="239" century="17" secularname="Emilio Altieri" birthplace="Rome">
+  <Name n="Clement" r="10" />
+  <StartDate d="1670-04-29" />
+  <StartDate d="1670-05-11" />
+  <EndDate d="1676-07-22" />
+ </p>
+ <p number="240" century="17" secularname="Benedetto Odescalchi" birthplace="Como">
+  <Name n="Innocent" r="11" />
+  <StartDate d="1676-09-21" />
+  <StartDate d="1676-10-04" />
+  <EndDate d="1689-08-12" />
+ </p>
+ <p number="241" century="17" secularname="Pietro Ottoboni" birthplace="Venice">
+  <Name n="Alexander" r="8" />
+  <StartDate d="1689-10-06" />
+  <StartDate d="1689-10-16" />
+  <EndDate d="1691-02-01" />
+ </p>
+ <p number="242" century="17" secularname="Antonio Pignatelli" birthplace="Spinazzola">
+  <Name n="Innocent" r="12" />
+  <StartDate d="1691-07-12" />
+  <StartDate d="1691-07-15" />
+  <EndDate d="1700-09-27" />
+ </p>
+ <p number="243" century="18" secularname="Giovanni Francesco Albani" birthplace="Urbino">
+  <Name n="Clement" r="11" />
+  <StartDate d="1700-11-23" event="election" />
+  <StartDate d="1700-11-30" event="installation" />
+  <StartDate d="1700-12-08" event="coronation" />
+  <EndDate d="1721-03-19" event="death" />
+ </p>
+ <p number="244" century="18" secularname="Michelangelo Conti" birthplace="Poli">
+  <Name n="Innocent" r="13" />
+  <StartDate d="1721-05-08" />
+  <StartDate d="1721-05-18" />
+  <EndDate d="1724-03-07" />
+ </p>
+ <p number="245" century="18" secularname="Pietro Francesco (Vincenzo Maria) Orsini" birthplace="Gravina">
+  <Name n="Benedict" r="13" />
+  <StartDate d="1724-05-29" />
+  <StartDate d="1724-06-04" />
+  <EndDate d="1730-02-21" />
+ </p>
+ <p number="246" century="18" secularname="Lorenzo Corsini" birthplace="Florence">
+  <Name n="Clement" r="12" />
+  <StartDate d="1730-07-12" />
+  <StartDate d="1730-07-16" />
+  <EndDate d="1740-02-06" />
+ </p>
+ <p number="247" century="18" secularname="Prospero Lambertini" birthplace="Bologna">
+  <Name n="Benedict" r="14" />
+  <StartDate d="1740-08-17" />
+  <StartDate d="1740-08-22" />
+  <EndDate d="1758-05-03" />
+ </p>
+ <p number="248" century="18" secularname="Carlo Rezzonico" birthplace="Venice">
+  <Name n="Clement" r="13" />
+  <StartDate d="1758-07-06" />
+  <StartDate d="1758-07-16" />
+  <EndDate d="1769-02-02" />
+ </p>
+ <p number="249" century="18" secularname="Giovanni Vincenzo Antonio (Lorenzo) Ganganelli" birthplace="Sant'Arcangelo di Romagna">
+  <Name n="Clement" r="14" />
+  <StartDate d="1769-05-19" event="election" />
+  <StartDate d="1769-05-28" event="installation" />
+  <StartDate d="1769-06-04" event="coronation" />
+  <EndDate d="1774-09-22" event="death" />
+ </p>
+ <p number="250" century="18" secularname="Giannangelo Braschi" birthplace="Cesena">
+  <Name n="Pius" r="6" />
+  <StartDate d="1775-02-15" />
+  <StartDate d="1775-02-22" />
+  <EndDate d="1799-08-29" />
+ </p>
+ <p number="251" century="19" secularname="Barnaba (Gregorio) Chiaramonti" birthplace="Cesena">
+  <Name n="Pius" r="7" />
+  <StartDate d="1800-03-14" />
+  <StartDate d="1800-03-21" />
+  <EndDate d="1823-08-20" />
+ </p>
+ <p number="252" century="19" secularname="Annibale della Genga" birthplace="Monticelli di Genga (Fabriano)">
+  <Name n="Leo" r="12" />
+  <StartDate d="1823-09-28" />
+  <StartDate d="1823-10-05" />
+  <EndDate d="1829-02-10" />
+ </p>
+ <p number="253" century="19" secularname="Francesco Saverio Castiglioni" birthplace="Cingoli">
+  <Name n="Pius" r="8" />
+  <StartDate d="1829-03-31" />
+  <StartDate d="1829-04-05" />
+  <EndDate d="1830-11-30" />
+ </p>
+ <p number="254" century="19" secularname="Bartolomeo Alberto (Mauro) Cappellari" birthplace="Belluno">
+  <Name n="Gregory" r="16" />
+  <StartDate d="1831-02-02" />
+  <StartDate d="1831-02-06" />
+  <EndDate d="1846-06-01" />
+ </p>
+ <p number="255" century="19" secularname="Giovanni Maria Mastai Ferretti" birthplace="Senigallia">
+  <Name n="Pius" r="9" />
+  <StartDate d="1846-06-16" event="election" />
+  <StartDate d="1846-06-21" event="coronation" />
+  <EndDate d="1878-02-07" event="death" />
+ </p>
+ <p number="256" century="19" secularname="Vincenzo Gioacchino Pecci" birthplace="Carpineto Romano">
+  <Name n="Leo" r="13" />
+  <StartDate d="1878-02-20" event="election" />
+  <StartDate d="1878-03-03" event="coronation" />
+  <EndDate d="1903-07-20" event="death" />
+ </p>
+ <p number="257" century="20" secularname="Giuseppe Melchiorre Sarto" birthplace="Riese (Treviso)">
+  <Name n="Pius" r="10" />
+  <StartDate d="1903-08-04" event="election" />
+  <StartDate d="1903-08-09" event="coronation" />
+  <EndDate d="1914-08-20" event="death" />
+ </p>
+ <p number="258" century="20" secularname="Giacomo della Chiesa">
+  <Name n="Benedict" r="15" />
+  <StartDate d="1914-09-03" event="election" />
+  <StartDate d="1914-09-06" event="coronation" />
+  <EndDate d="1922-01-22" event="death" />
+ </p>
+ <p number="259" century="20" secularname="Achille Ratti" birthplace="Desio (Milan)">
+  <Name n="Pius" r="11" />
+  <StartDate d="1922-02-06" event="election" />
+  <StartDate d="1922-02-12" event="coronation" />
+  <EndDate d="1939-02-10" event="death" />
+ </p>
+ <p number="260" century="20" secularname="Eugenio Pacelli" birthplace="Rome">
+  <Name n="Pius" r="12" />
+  <StartDate d="1939-03-02" event="election" />
+  <StartDate d="1939-03-12" event="coronation" />
+  <EndDate d="1958-10-09" event="death" />
+ </p>
+ <p number="261" century="20" secularname="Angelo Giuseppe Roncalli" birthplace="Sotto il Monte (Bergamo)">
+  <Name n="John" r="23" />
+  <StartDate d="1958-10-28" event="election" />
+  <StartDate d="1958-11-04" event="coronation" />
+  <EndDate d="1963-06-03" event="death" />
+ </p>
+ <p number="262" century="20" secularname="Giovanni Battista Montini" birthplace="Concesio (Brescia)">
+  <Name n="Paul" r="6" />
+  <StartDate d="1963-06-21" event="election" />
+  <StartDate d="1963-06-30" event="coronation" />
+  <EndDate d="1978-08-06" event="death" />
+ </p>
+ <p number="263" century="20" secularname="Albino Luciani" birthplace="Forno di Canale (Belluno)">
+  <Name n="John Paul" r="1" />
+  <StartDate d="1978-08-26" event="election" />
+  <StartDate d="1978-09-03" event="installation" />
+  <EndDate d="1978-09-28" event="death" />
+ </p>
+ <p number="264" century="20" secularname="Karol Wojtyła" birthplace="Wadowice (Kraków)">
+  <Name n="John Paul" r="2" />
+  <StartDate d="1978-10-16" event="election" />
+  <StartDate d="1978-10-22" event="installation" />
+  <EndDate d="2005-04-02" event="death" />
+ </p>
+ <p number="265" century="21" secularname="Joseph Ratzinger" birthplace="Marktl am Inn (Bavaria)">
+  <Name n="Benedict" r="16" />
+  <StartDate d="2005-04-19" event="election" />
+  <StartDate d="2005-04-24" event="installation" />
+  <EndDate d="2013-02-28" event="resigned" />
+ </p>
+ <p number="266" century="21" secularname="Jorge Mario Bergoglio" birthplace="Buenos Aires (Argentina)">
+  <Name n="Francis" r="1" only="true" />
+  <StartDate d="2013-03-13" event="election" />
+  <StartDate d="2013-03-19" event="installation" />
+ </p>
+</popes>
