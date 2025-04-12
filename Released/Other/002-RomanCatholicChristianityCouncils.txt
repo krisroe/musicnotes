@@ -26,8 +26,8 @@ And if it really was timeless (which I regard as very possible given the iconic 
 
 The earliest day that can be chosen should respect the Islamic Hjiri calendar. This hundreds of years after Anno Domini dates start, but given the significance of Muhammed to Islam, I think it makes sense 
 to allow Islam some time to work out contextual details. Here we can look to 638 CE, when the standardized Hijri calendar was chosen. There were several options to choose from: Mohammed's birth 
-(570 CE), First Revelation (610 CE), Hijra Migration (622 CE, which was chosen), Mohammed's Death (632 CE). My guess is any of those would work, but perhaps it would be better to use the point the
-Hijri calendar started being used (638 CE, several years after Mohammed's death) as a more useful signpoint in time where divine relevation needs to be significantly dialed back.
+(570 CE), First Revelation (610 CE), Hijra Migration (622 CE, which was chosen), Mohammed's Death (632 CE). My guess is any of those would work, but I think the best option would be to push this as far
+forward as possible (June 8 632 Julian, June 11 632 Gregorian). This acts as a signpost in time where divine relevation needs to be significantly dialed back.
 
 I'll also give a fourth point. The Gregorian calendar came from the Julian calendar, and the Julian calendar came from Julius Caesar (another highly significant historical figure). I think the point
 where the Julian calendar took effect (January 1, 45 BCE) is a more accurate origin point for that calendar (even though it's before the common era starting point).
