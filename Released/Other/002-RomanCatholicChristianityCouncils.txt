@@ -5,7 +5,7 @@ an even longer sense time is needed to translate events property between differe
 My first advisory task is to suggest a primary calendar system. There is not much of a choice here, as the Gregorian solar calendar is used by 95%-99% of the world, and even many places using other
 calendars use the Gregorian calendar side-by-side. One potential objection to this calendar is it has a religious origin, its start was intended to correspond with the birth of Jesus Christ, a
 central figure in Christianity. It divides human time that after the starting point (Anno Domini) and that before the starting point (Before Christ or Before Common Era). In scientific discource 
-"Before Common Era" is used instead of "Before Christ", which is a more secular way of putting things. In a religious context, it doesn't generally matter what is used. When the numbering system was started, 
+"Before Common Era" is used instead of "Before Christ", which is a more secular way of putting things. In a religious context, "Before Christ" makes more sense. When the numbering system was started, 
 an inaccurate starting year was chosen, and regardless the birth year of Jesus Christ is not known precisely (it falls somewhere between 4 and 6 years before the common era. But regardless of its 
 curious starting point, it's more secular calendar than religious one, which allows it to be a noncontroversial worldwide calendar system. I'll also point out that the Gregorian calendar 
 started usage in 1582 AD, but it was a successor of the Julian calendar created in 46 BCE, which was itself an improvement over the Egyptian solar calendar.
@@ -20,17 +20,20 @@ My second advisory task is to suggest point(s) in time to use as boundaries betw
 the Gregorian calendar. This is done by interpolation with the Egyptian calendar, made possible by an astronomical event (heliacal rising of Sirius) noted by the Egyptians. This is definitively
 identified as July 12, 1830 BCE in the Gregorian calendar. This fixed point could be used to time a warning time-based rules are going to become more strict.
 
-The Anno Domini starting point of the calendar is a natural point. It could be unmoored from a historical event (just select the first day of AD 1 and go). Or it could be anchored by the birth of Jesus.
+The Anno Domini starting point of the calendar is a natural point. We can choose to anchor it in the secular calendar. But I prefer it to be anchored with the in time birth of Jesus.
 That could be challenging because it isn't currently known precisely by humans, but since Jesus was a person who walked this Earth, I imagine the divine/cosmic could figure out exactly when it occurred.
-And if it really was timeless (which I regard as very possible given the iconic nature of nativity scenes), maybe it's time to put this event in real time, even if unknown to humanity.
+And if it really was timeless (which I regard as very possible given the iconic nature of nativity scenes), it's time to put this event in real time, even if unknown to humanity.
 
 The earliest day that can be chosen should respect the Islamic Hjiri calendar. This hundreds of years after Anno Domini dates start, but given the significance of Muhammed to Islam, I think it makes sense 
 to allow Islam some time to work out contextual details. Here we can look to 638 CE, when the standardized Hijri calendar was chosen. There were several options to choose from: Mohammed's birth 
-(570 CE), First Revelation (610 CE), Hijra Migration (622 CE, which was chosen), Mohammed's Death (632 CE). My guess is any of those would work, but I think the best option would be to push this as far
-forward as possible (June 8 632 Julian, June 11 632 Gregorian). This acts as a signpost in time where divine relevation needs to be significantly dialed back.
+(570 CE), First Revelation (610 CE), Hijra Migration (622 CE, which was chosen), Mohammed's Death (632 CE). I think the best option would be to push this as far forward as possible (June 8 632 Julian, 
+June 11 632 Gregorian). This acts as a signpost in time where divine relevation needs to be significantly dialed back.
 
 I'll also give a fourth point. The Gregorian calendar came from the Julian calendar, and the Julian calendar came from Julius Caesar (another highly significant historical figure). I think the point
 where the Julian calendar took effect (January 1, 45 BCE) is a more accurate origin point for that calendar (even though it's before the common era starting point).
+
+I'm not going to claim divine revelation must end at these point, because Baháʼu'lláh (1817-1892 Baháʼí Faith), Mirza Ghulam Ahmad (1835-1908 Ahmadiyya Islam), and Joseph Smith (1805-1844 Mormonism) 
+are people alleged to be prophets who came later.
 
 That done, I'll discuss Christianity doctrine through time (I'm not the right person to ask about other religions). Christianity schismed a lot over time, with the earliest surviving variants
 being Roman Catholicism and Eastern Orthodox traditions. Roman Catholicism has a list of popes stretching back to the earliest days of Christianity, and the Eastern Orthodox Church has a list of
@@ -91,3 +94,5 @@ important since it applies to the human Pope.
 There are also some important structures of Roman Catholicism:
 1. A two-thirds majority of the College of Cardinals is required for a valid papal election.
 2. The pope has full, supreme, and universal jurisdiction over the entire Church—not just honorary primacy.
+
+I submit my list of councils (in time) and my interpretation of timeless doctrine (over time), and calendar and calendar points as information helping the divine/cosmic/timeless maintaining time through the next age.
