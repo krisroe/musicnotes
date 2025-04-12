@@ -61,8 +61,16 @@ Second Council of Nicaea (787)
 Iconoclasm wasn’t totally over. After Irene’s reign, a second wave of iconoclasm hit in the 800s under Emperor Leo V. It wasn’t until 843 AD, during the Triumph of Orthodoxy, that icon veneration was finally and permanently restored in the Byzantine Church.
 
 Fourth Council of Constantinople
-(869–870). Recognized by Roman Catholic Church. Deposed Photius (Patriarch of Constantinople)
-(879-880). Recognized by Eastern Orthodox Church. Restored Photius.
+(869–870). Recognized by Roman Catholic Church. Deposed Photius (Patriarch of Constantinople). Reaffirmed the primacy of the Pope.
+(879-880). Recognized by Eastern Orthodox Church. Restored Photius. Rejected the Filioque clause. Emphasized concilarity (authority of councils over the Pope in Eastern tradition).
+
+
+Great Schism of 1054 (East-West Schism). Marked the official split between Roman Catholic Church and Eastern Orthodox Church. Differences:
+1. Latin in the West, Greek in the East
+2. Papal Authority: Rome emphasized the Pope's supreme authority; the East viewed the Patriarch of Constantinople as "first among equals"
+3. East disagreed with the West's Filioque addition to the Nicene Creed
+4. Liturgical practices: Leavened vs. unleavened bread in the Eucharist, fasting rules, celibacy, etc.
+5. Accomplished via mutual excommunications
 
 First Lateran Council (1123)
 1. Ratified the Concordat of Worms
@@ -76,17 +84,54 @@ First Lateran Council (1123)
 3. Protection of Church Property and Persons. Issued canons calling for the protection of churches and monasteries, clergy, pilgrims, church lands and possessions.
 
 Second Lateran Council (1139)
+resolved a disputed papal election between Innocent II and Anacletus II (who had died) in favor of Innocent II
+
 Third Lateran Council (1179)
+1. Reformed papal elections (2/3 majority required), to prevent future minority-backed antipopes
+2. Condemned Catharism (Albigensianism)
+
 Fourth Lateran Council (1215)
+1. Doctrine of Transubstantiation. During the Eucharist, the bread and wine become the literal body and blood of Christ, not symbols
+2. Filioque was explicitly affirmed as doctrine
+
 First Council of Lyon (1245)
+Tried to depose the Holy Roman Emperor
+
 Second Council of Lyon (1274)
+1. Attempted to reunite with Eastern Orthodox church, but this did not catch on.
+
 Council of Vienne (1311–1312)
+1. Suppression of the Knights Templar
+
 Council of Constance (1414–1418)
+1. Ended the western schism
+2. Condemned heresy (Jan Hus and John Wycliffe)
+
 Council of Basel/Ferrara/Florence (1431–1445)
+1. Papal supremacy won over conciliarism.
+2. Schism: Brief papal schism with antipope Felix V, eventually resolved
+
 Fifth Lateran Council (1512–1517)
+1. Reaffirmed papal supremacy
+
 Council of Trent (1545–1563)
+1. Scripture and tradition. Declared that Scripture and Tradition are equal sources of divine revelation. Rejected the Protestant principle of sola scriptura ("Scripture alone").
+2. Canon of Scripture. Formally affirmed the Deuterocanonical books (rejected by Protestants). This defined the Catholic Bible as we know it today.
+3. Justification. Declared that salvation is by faith and works, not by faith alone. Grace is a gift, but human cooperation matters.
+4. Seven Sacraments: Reaffirmed all seven sacraments, especially eucharist (transubstantiation), confession (necessary for forgiveness), Holy Orders (only valid priests can consecrate)
+5. Indulgences. Upheld their legitimacy but condemned abuses (like selling them).
+
+1854: The Immaculate Conception. That Mary was conceived without original sin from the very first moment of her existence, by a special grace from God, in preparation for her role as the mother of Jesus. This was retroactively understood as an exercise of papal infallibility.
+
 First Vatican Council (1869–1870)
+1. Defined Papal Infallability. When the pope speaks ex cathedra (from the chair of Peter) on faith and morals, he is infallible—free from error. This marked a major centralization of authority in the papacy.
+
+1950: Assumption of Mary. That Mary, "having completed the course of her earthly life," was assumed body and soul into heavenly glory. Only explicit use of papal infallibility.
+
 Second Vatican Council (Vatican II) (1962–1965)
+1. Modernization (e.g. allowed mass to be celebrated in the vernacular, strengthened the role of the laity)
+
+1965: Pope Paul VI and Patriarch Athenagoras lifted the mutual excommunications.
 
 ===
 
@@ -108,8 +153,12 @@ Eastern Orthodox position: The Holy Spirit proceeds from the Father alone. Filio
 Western Catholic position: The Holy Spirit proceeds from the Father and the Son. Filioque expresses the oneness of the Father and Son and their shared divinity.
 
 
-====
-
+Catharism (Albigensianism)
+* Dualism: Belief in two opposing divine forces—one good (spirit) and one evil (matter).
+* Anti-materialism: Physical world (including the human body) was evil; only the soul was good.
+* Rejection of sacraments: Denied the validity of the Eucharist, baptism, marriage, etc.
+* Opposed the clergy: Believed the institutional Church was corrupt and illegitimate.
+* Ascetic lifestyle: The perfecti (elite Cathars) avoided meat, sex, and possessions.
 
 
 
