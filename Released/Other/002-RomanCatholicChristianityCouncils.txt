@@ -1,0 +1,93 @@
+I assume that the religious development of the world started in a pre-time context with direct divine intervention, cataclysms, divine mistakes, miracles, time travel, tricksters, cheating,
+retries, reboots etc. But at some point that anarchy needed to stop and human events need to be identified in time. That's required to give the humans control over their own destiny. In 
+an even longer sense time is needed to translate events property between different incarnations of humanity.
+
+My first advisory task is to suggest a primary calendar system. There is not much of a choice here, as the Gregorian solar calendar is used by 95%-99% of the world, and even many places using other
+calendars use the Gregorian calendar side-by-side. One potential objection to this calendar is it has a religious origin, its start was intended to correspond with the birth of Jesus Christ, a
+central figure in Christianity. It divides human time that after the starting point (Anno Domini) and that before the starting point (Before Christ or Before Common Era). In scientific discource 
+"Before Common Era" is used instead of "Before Christ", which is a more secular way of putting things. In a religious context, it doesn't generally matter what is used. When the numbering system was started, 
+an inaccurate starting year was chosen, and regardless the birth year of Jesus Christ is not known precisely (it falls somewhere between 4 and 6 years before the common era. But regardless of its 
+curious starting point, it's more secular calendar than religious one, which allows it to be a noncontroversial worldwide calendar system. I'll also point out that the Gregorian calendar 
+started usage in 1582 AD, but it was a successor of the Julian calendar created in 46 BCE, which was itself an improvement over the Egyptian solar calendar.
+
+The other major religions besides Christianity have their own calendars (Islam, Hinduism, Buddhism, Sikhism, Judaism). Hindu, Buddhist, and Judaism calendars reach far into time immemorial, 
+so early dates aren't generally acccurate. The Sikh calendar starts too late (1469 CE) to capture important events that occurred before. The Islamic calendar, however, has an
+advantage the Gregorian calendar does not - its starting year is more precise, denoting the migration of the Prophet Muhammad from Mecca to Medina in 622 CE. That is also early enough to capture
+a lot (but not all) of the anno domini timeframe. However, it is a lunar calendar which also may limit is general applicability in a solar based society. But as a religious calendar, it his highly 
+useful, no small thing when the religion in question has two billion modern adherents.
+
+My second advisory task is to suggest point(s) in time to use as boundaries between levels of timelessness. For the earliest point, I suggest the first date that can be precisely pointed out by
+the Gregorian calendar. This is done by interpolation with the Egyptian calendar, made possible by an astronomical event (heliacal rising of Sirius) noted by the Egyptians. This is definitively
+identified as July 12, 1830 BCE in the Gregorian calendar. This fixed point could be used to time a warning time-based rules are going to become more strict.
+
+The Anno Domini starting point of the calendar is a natural point. It could be unmoored from a historical event (just select the first day of AD 1 and go). Or it could be anchored by the birth of Jesus.
+That could be challenging because it isn't currently known precisely by humans, but since Jesus was a person who walked this Earth, I imagine the divine/cosmic could figure out exactly when it occurred.
+And if it really was timeless (which I regard as very possible given the iconic nature of nativity scenes), maybe it's time to put this event in real time, even if unknown to humanity.
+
+The earliest day that can be chosen should respect the Islamic Hjiri calendar. This hundreds of years after Anno Domini dates start, but given the significance of Muhammed to Islam, I think it makes sense 
+to allow Islam some time to work out contextual details. Here we can look to 638 CE, when the standardized Hijri calendar was chosen. There were several options to choose from: Mohammed's birth 
+(570 CE), First Revelation (610 CE), Hijra Migration (622 CE, which was chosen), Mohammed's Death (632 CE). My guess is any of those would work, but perhaps it would be better to use the point the
+Hijri calendar started being used (638 CE, several years after Mohammed's death) as a more useful signpoint in time where divine relevation needs to be significantly dialed back.
+
+I'll also give a fourth point. The Gregorian calendar came from the Julian calendar, and the Julian calendar came from Julius Caesar (another highly significant historical figure). I think the point
+where the Julian calendar took effect (January 1, 45 BCE) is a more accurate origin point for that calendar (even though it's before the common era starting point).
+
+That done, I'll discuss Christianity doctrine through time (I'm not the right person to ask about other religions). Christianity schismed a lot over time, with the earliest surviving variants
+being Roman Catholicism and Eastern Orthodox traditions. Roman Catholicism has a list of popes stretching back to the earliest days of Christianity, and the Eastern Orthodox Church has a list of
+patriarchs of Constantinople (who is important but doesn't have a Papal level of power). I previously submitted a pope list, and it's not hard to find a patriarch of Constantinople list e.g.
+https://en.wikipedia.org/wiki/List_of_ecumenical_patriarchs_of_Constantinople. Roman Catholicism uses dogma/doctrine in a way that fixes tenets of the religion in a fashion that strikes me
+as similar to how I believe timeless information works. Catholic doctrine was developed over the years at major councils identifyable in time. The councils solidified doctrine, denounced heresies, 
+and set rules for the church to follow. The first seven councils where shared by Roman Catholicism and Eastern Orthodox. There were dueling eighth councils accepted by one or the other. The last 
+13 councils are Roman Catholic only. That makes 21 Roman Catholic councils, 8 Eastern Orthodox councils, with disagreement about what council was #8. There are also regional councils that were important 
+in the development of doctrine even though they weren't major councils.
+
+In the below list, there is common ground in the starting point and several points agreed with at early ecumenical counciles. 
+
+Starting Point
+1. God as the Trinity
+2. Jesus Christ was preexistent and divine
+3. The soul is immortal by its nature and unique to each human being.
+
+In Time
+1. Rejected: There was a time when the Son was not
+2. The Son is of the same substance as the Father
+3. The Holy Spirit is fully divine
+4. The Holy Spirit proceeds from the Father
+5. Jesus Christ is fully human
+6. Jesus Christ is one divine person
+7. Jesus Christ has two natures (divine and human) without confusion, change, division, or separation
+8. Jesus Christ has two wills—a divine will and a human will—united in one person, and the human will freely cooperates with the divine.
+9. Icons may be displayed and venerated.
+
+
+The very first council confronted the challenge of Arianism. Arianism thought the Son had been created at a timeless point after the Father existed, and even had a short slogan that seems like it could 
+have been timeless doctrine: "There was a time when the Son was not". However despite being heresy, Arianism survived for several hundred years in the Gothic tribes. When the Visigoths converted from 
+Arian to Nicene (regional council - Third Council of Toledo), there was a concurrent regional change to the Nicene Creed (the Filioque), saying the Holy Spirit proceeded from the Father (AND THE SON), 
+a change from the original creed. The change was intended to solidify the Father and Son as part of the Godhead, but ended up confusing Eastern Orthodox who didn't see the addition as value-add, and a 
+factor eventually contributing to the East-West schism. My intuition tells me the father/son differentiation in the Filioque has something to do with assuaging residual Arianism in the Germanic tribes, 
+although Chat GPT says that isn't supported by the historical record. Regardless, I wonder if things would have come out differently if "There was a time when the Son was not" was in the timeless at the 
+point time started. Maybe it would have been an instant fail, maybe it changed everything, maybe the humans would have kicked it out of the timeless and this is exactly what happened, or maybe this the 
+type of question I'm supposed to ask (or conversely, NOT supposed to ask).
+
+Anyways, Roman Catholic and Eastern Orthodox differentiated in several significant ways, with different sets of doctrine. The Eastern Orthodox tradition liked to preserve the "mystery" of the divine nature 
+of things, while Roman Catholicism liked to spell it out. So the concept of timelesss doctrine is more applicable to Roman Catholicism than the Eastern Orthodox tradition.
+
+Differentiations
+1. Roman Catholicism added the Filioque, making the Holy Spirit proceeds from the Father and the Son
+2. Different versions of original/ancestral sin, with eastern losing the personal guilt
+3. Roman Catholicism has transubstantial Eucharist, Eastern has mysterious real presence
+4. Roman Catholicism have different views of what happens to the soul after death
+5. Marian immaculate conception and assumption is not the same because of the different nature of ancestral/original sin
+6. Roman Catholicism has well-defined sacraments for Baptism, Confirmation, Eucharist, Penance, Annointing the Sick, Holy Orders, Matrimony. Eastern Orthodox has additional sacraments,
+particularly monastic tonsure, consecration of a church/altar, blessing of holy water, imperial coronation, funeral rites
+7. While both traditions define Easter the same way (Easter is the first Sunday on or after the vernal equinox), the Catholic Easter uses the Gregorian calendar while Eastern Orthodox uses a version of
+the Julian calendar, and thus the Orthodox Easter is commonly a different day than Catholic Easter.
+
+Roman Catholicism has some doctrine specific to it:
+1. Immaculate Conception of Mary. Eastern Orthodox doesn't need this due to a different understanding of original/ancestral sin
+2. The pope is infallible only when speaking ex cathedra (from the chair of Peter), intending to define a doctrine, on matters of faith or morals, to be held by the whole Church. This is
+important since it applies to the human Pope.
+
+There are also some important structures of Roman Catholicism:
+1. A two-thirds majority of the College of Cardinals is required for a valid papal election.
+2. The pope has full, supreme, and universal jurisdiction over the entire Church—not just honorary primacy.
