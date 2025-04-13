@@ -2,19 +2,24 @@ I assume that the religious development of the world started in a pre-time conte
 retries, reboots etc. But at some point that anarchy needed to stop and human events need to be identified in time. That's required to give the humans control over their own destiny. In 
 an even longer sense time is needed to translate events property between different incarnations of humanity.
 
-My first advisory task is to suggest a primary calendar system. There is not much of a choice here, as the Gregorian solar calendar is used by 95%-99% of the world, and even many places using other
+My first advisory task is to suggest primary calendar systems. There is not much of a top choice here, as the Gregorian solar calendar is used by 95%-99% of the world, and even many places using other
 calendars use the Gregorian calendar side-by-side. One potential objection to this calendar is it has a religious origin, its start was intended to correspond with the birth of Jesus Christ, a
 central figure in Christianity. It divides human time that after the starting point (Anno Domini) and that before the starting point (Before Christ or Before Common Era). In scientific discource 
-"Before Common Era" is used instead of "Before Christ", which is a more secular way of putting things. In a religious context, "Before Christ" makes more sense. When the numbering system was started, 
-an inaccurate starting year was chosen, and regardless the birth year of Jesus Christ is not known precisely (it falls somewhere between 4 and 6 years before the common era. But regardless of its 
-curious starting point, it's more secular calendar than religious one, which allows it to be a noncontroversial worldwide calendar system. I'll also point out that the Gregorian calendar 
-started usage in 1582 AD, but it was a successor of the Julian calendar created in 46 BCE, which was itself an improvement over the Egyptian solar calendar.
+"Before Common Era" is used instead of "Before Christ", which is a more secular way of putting things. In a religious context, "Before Christ" makes more sense. To make the religious vs secular
+differentiation as clear as possible I make the primary solar calendar the Gregorian calendar and the civil calendar ISO standard 8601. Functionally they are the same.
+
+When the Gregorian numbering system was started, an inaccurate starting year was chosen, and regardless the birth year of Jesus Christ is not known precisely (it falls somewhere between 4 and 6 
+years before the common era. But regardless of its curious starting point, it's more secular calendar than religious one, which allows it to be a noncontroversial worldwide calendar system. 
+I'll also point out that the Gregorian calendar started usage in 1582 AD, but it was a successor of the Julian calendar created in 46 BCE, which was itself an improvement over the Egyptian 
+solar calendar.
 
 The other major religions besides Christianity have their own calendars (Islam, Hinduism, Buddhism, Sikhism, Judaism). Hindu, Buddhist, and Judaism calendars reach far into time immemorial, 
 so early dates aren't generally acccurate. The Sikh calendar starts too late (1469 CE) to capture important events that occurred before. The Islamic calendar, however, has an
 advantage the Gregorian calendar does not - its starting year is more precise, denoting the migration of the Prophet Muhammad from Mecca to Medina in 622 CE. That is also early enough to capture
-a lot (but not all) of the anno domini timeframe. However, it is a lunar calendar which also may limit is general applicability in a solar based society. But as a religious calendar, it his highly 
-useful, no small thing when the religion in question has two billion modern adherents.
+a lot (but not all) of the anno domini timeframe. The advantages of this calendar make it the primary lunar calendar.
+
+There is more competition for the primary lunisolar calendar, but I consider the Hebrew calendar the correct once since it is used more as a secular-style calendar in Israel than any other calendar
+in any other country.
 
 My second advisory task is to suggest point(s) in time to use as boundaries between levels of timelessness. For the earliest point, I suggest the first date that can be precisely pointed out by
 the Gregorian calendar. This is done by interpolation with the Egyptian calendar, made possible by an astronomical event (heliacal rising of Sirius) noted by the Egyptians. This is definitively
