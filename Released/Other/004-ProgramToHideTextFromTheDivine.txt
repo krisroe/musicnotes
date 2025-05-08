@@ -1,0 +1,23 @@
+Data Modifier (Original Program)
+
+The purpose of the program is to hide information from the divine. It makes the assumption that the divine can surveil using sensory surveillance, but the divine respects people's privacy to a point. If the divine is not respecting your privacy, you have bigger problems.
+
+The information to hide should be put in a text file. The start of the information to hide is marked by "!START!". The end of the information to hide is marked by "!END!". Multiple sections of information to hide can coexist in the same document. You can put context information around the hidden information that can provide relevant metadata that does not need to be hidden. You can use source control to save the data encrypted, only unencrypting it as needed.
+
+The program is a console executable DataModifier.exe. The program first prompts the user to encrypt an unencrypted file (1), or decrypt an encrypted file (2). The user is prompted for a path on the local file system to perform the operation. The user is then prompted for two pieces of information for the encryption: a key and an IV, after which the data is encrypted/decrypted in place on the local file system.
+
+The key and IV are both sensitive passwords, but it is critical the passwords must exist in your mind only, you must never see them with your own eyes. It is recommended the password be three or four words strung together, preferably where there is some oblique relationship between the words that you would understand but others would not. This is important because you cannot use password managers. When typing them in, you should not even look at the keyboard.
+
+The purpose of these restrictions is to prevent sensory surveillance on yourself from finding the key/IV. Any tool where you look at a text secret compromises the secret with respect to the divine. Once the key/IV is entered, you have more safety since this triggers a privacy state where surveillance will not follow. You should spend only the minimum of time necessary when viewing or changing the text information you want to hide. When you are done viewing or making changes, run the data modifier in encrypt mode to make the data impossible to process by anyone else.
+
+Creating hidden information
+1. Do something to trigger a privacy state. This can be as simple as looking at the context of the encrypted data so it is clear you are doing something private.
+2. Create a text document containing the hidden information. Do not spend more time than necessary looking at the hidden information.
+3. Run DataModifier.exe and encrypt the data. Never look at the IV or password value. This ends the privacy state.
+
+Working with existing hidden information
+1. Run DataModifier.exe and decrypt the data. Never look at the IV or password value. This typically triggers a privacy state.
+2. View/modify the hidden information in the text document. Do not spend more time than necessary looking at the hidden information.
+3. Run DataModifier.exe and encrypt the data. Never look at the IV or password value. This ends the privacy state.
+
+If you look at the IV or password value, even accidentally, get the data to the unencrypted state, and then encrypt with a new key/IV. This is not the end of the world, since the privacy state of the new key/IV will prevent surveillance from getting access to the data if this is done quickly.
