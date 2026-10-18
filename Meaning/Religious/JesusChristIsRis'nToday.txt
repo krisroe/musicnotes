@@ -1,4 +1,4 @@
-Jesus Christ is Ris'n Today (Lyrical Adaptation of musicnotes.com MN0063770)
+Jesus Christ is ris'n today (Christian Easter Hymn)
 
 Jesus Christ is ris'n today. (Alleluia! follows each line)
 Our triumphant holy day.
@@ -7,19 +7,59 @@ Suffered to redeem our loss.
 
 Hymns of praise, it's time to sing.
 Unto Christ, our beloved king.
-He steadfastly bore the grave.
+Who steadfastly bore the grave.
 Sinners to forgive and save.
 
 Thru the pains which He endured.
-Our salvation is secured.
-Now beyond the sky, divine.
+Our salvation is procured.
+He's beyond the sky, divine.
 Where souls and angels ever shine.
 
-Our brave Lord, He reigns above.
+Our brave Lord now reigns above.
 Life eternal, as His love.
-Praise Him, all ye heav'nly host.
+Praise Him well, ye heav'nly host.
 Father, Son, and Holy Ghost.
 
-Meaning (credit AI in an appropriate way)
+Analysis (with assistance from ChatGPT)
 
-TODO
+Verse 1 (Resurrection and redemption)
+The first line establishes the central paradox of Easter: an event involving death and suffering becomes a celebration of triumph.
+"Our triumphant holy day" emphasizes the celebration itself, rather than simply describing Christ's resurrection. The possessive "our"
+also places the congregation inside the event, making Easter a shared human experience. The third line shifts immediately from
+resurrection to crucifixion, explaining the suffering that preceded it. The loss that is redeemed is the humanity's sinful nature dating
+back to Adam and Eve eating the apple from the forbidden tree of knowledge.
+
+Verse 2 (Praise and perseverance)
+This verse moves from describing the Easter event to prescribing a human response: singing praise. "It's time to sing" is more
+conversational than traditional hymn language. It creates a sense of immediacy, almost as though the singer is inviting everyone present
+to participate. "Our beloved king" balances two aspects of Christ: royal authority and personal affection. "King" emphasizes power,
+while "bellowed" emphasizes an emotional relationship. "He steadfastly bore the grave." is a distinctive phrase, where "steadfastly" implies
+determination, constancy, and an unwillingness to abandon one's purpose. It portrays Christ's suffering not merely as something that happened
+to him, but as something he willingly endured. "Bore the grave" is an interesting construction. People normally bear burdens, suffering, or
+grief rather than graves. Metaphorically, however, it suggests Christ bearing the weight of death itself. The phrase "sinners to forgive and
+save" presents two related but distinct concepts: "Forgive" addresses moral wrongdoing and guilt. "Save" addresses the ultimate consequences
+of sin and death. "He steadfastly bore the grave. Sinners to forgive and save." is not ordinary conversational syntax, but the interpretation
+is clear enough in hymn language.
+
+Verse 3 (Suffering, salvation, and heaven)
+The first two lines express a clear causal relationship: Christ endured suffering, and through that suffering, salvation was obtained. "Procured"
+doesn't necessarily assert that every human being is saved. It leaves room for different theological positions about who ultimately receives
+redemption. "Procured" also has a slightly archaic quality that complements the hymn's traditional language. One subtle consideration is that
+"procured" can evoke a transaction, as though salvation were purchased, but that is consistent with longstanding Christian language about
+redemption. "He's beyond the sky, divine" establishes a transition from Christ's historical suffering to his present heavenly existence. The word
+"divine" interprets naturally as describing Christ, although its placement still permits a secondary association with the heavenly realm. "Where
+souls and angels ever shine" asserts that some but not necessarily all souls inhabit heaven. "Ever shine" invokes an image of eternal radiance. It
+suggests that heaven is not merely a place of continued existence but one of enduring spiritual glory. In total, the third verse progresses from
+suffering ("pains") to glory ("shine").
+
+Verse 4 (Sovereignty, eternity, and praise)
+"Brave" is not among the most conventional adjectives used to describe Christ in Easter hymns. Worlds such as "glorious" and "mighty" are more 
+typical. But "brave" connects directly to the suffering described in verse 3. Christ is not simply powerful; he has demonstrated courage in
+facing death. That gives his subsequent reign a particular significance: the one who reigns is also the one who suffered. "Life eternal, as His love"
+connects the eternity of heavenly life with the eternity of divine love, implying life is eternal just as God's love is eternal. "Praise Him well"
+suggests that praise should be worthy of its recipient. It isn't merely a command to praise Christ. It asks the heavenly host to praise him properly,
+fully, or excellently. The final line "Father, Son, and Holy Ghost" provides a traditional Trinitarian conclusion.
+
+
+
+
