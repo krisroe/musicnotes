@@ -23,7 +23,7 @@ I created an XML format to make the list both more machine-readable and human-re
 2. The century is redundant information, but since it is included in the Holy See's data I kept it as is.
 3. Two popes have multiple papal names: 3 = Anacletus or Cletus, 32 = Miltiades or Melchiades, which I capture as multiple Name elements.
 4. Four popes have three dates: 212 = Sixtus IV, 215 = Pius III, 243 = Clement XI, 249 = Clement XIV, which I capture with three StartDate elements. Two dates is much more common, captured with two StartDate elements. Just a year happens early in the data set, captured with one StartDate element.
-5. If there is only one pope with a papal name I add an only=true attribute to the Name element to make it easier to find such cases (e.g. currently for pope Francis)
+5. If there is only one pope with a papal name I add an only=true attribute to the Name element to make it easier to find such cases (e.g. currently for Francis)
 6. For StartDate/EndDate elements, if there is only one unambiguous date value I use a "d" element. If there are two or three ambiguous date values I capture that with "d1", "d2", and "d3" elements.
 7. Benedict IX has three distinct papal reigns. To make this easier to understand I added a pope-level reign attribute that is 1/2/3 that is only used for him and his ordered reigns.
 

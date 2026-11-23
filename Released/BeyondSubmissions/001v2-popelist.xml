@@ -1458,5 +1458,11 @@
   <Name n="Francis" r="1" only="true" />
   <StartDate d="2013-03-13" event="election" />
   <StartDate d="2013-03-19" event="installation" />
+  <EndDate d="2025-04-21" event="death" />
+ </p>
+ <p number="267" century="21" secularname="Robert Francis Prevost" birthplace="Chicago">
+  <Name n="Leo" r="14" />
+  <StartDate d="2025-05-08" event="election" />
+  <StartDate d="2025-05-18" event="installation" />
  </p>
 </popes>
